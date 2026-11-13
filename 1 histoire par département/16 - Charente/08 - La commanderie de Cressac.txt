@@ -1,6 +1,6 @@
 TITRE : La commanderie de Cressac
 NATURE : légende locale — chapelle templière réelle
-REPÉRES : Cressac-Saint-Genis, Charente.
+REPÈRES : Cressac-Saint-Genis, Charente.
 
 [HOOK D'ENTRÉE]
 Au milieu des champs, il y a une petite chapelle romane. Elle n'a l'air de rien. À l'intérieur, les murs sont couverts de chevaliers, de batailles, de têtes coupées.
@@ -13,4 +13,4 @@ Les Templiers y vivaient, géraient des terres, protégeaient les voyageurs. Ils
 La chapelle reste, isolée, dans les vignes. Les fresques sont restaurées, protégées.
 
 [HOOK DE FIN]
-On y entre par une porte basse. Il fait frais, sombre, silencieux. Et l'on remarque que les chevaliers peints regardent tous dans la même direction : vers la porte. Certains visiteurs disent qu'en ressortant, ils se retournent. Pour vérifier. Et ils ne savent pas expliquer pourquoi.
+On y entre par une porte basse. Il fait frais, sombre, sîlencieux. Et l'on remarque que les chevaliers peints regardent tous dans la même direction : vers la porte. Certains visiteurs disent qu'en ressortant, ils se retournent. Pour vérifier. Et ils ne savent pas expliquer pourquoi.

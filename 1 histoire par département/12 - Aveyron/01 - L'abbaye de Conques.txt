@@ -13,4 +13,4 @@ Le trésor contient des objets d'or, des reliquaires, des pièces uniques. Le pl
 Le village est resté minuscule, accroché à la pente.
 
 [HOOK DE FIN]
-La nuit, l'abbatiale est fermée, éclairée, silencieuse. Les gardiens qui la ferment le soir racontent que, certains soirs, on entend des pas dans le déambulatoire. Et que le tympan, éclairé par en dessous, donne l'impression que les damnés ont bougé. Ce n'est pas possible. On regarde quand même.
+La nuit, l'abbatiale est fermée, éclairée, sîlencieuse. Les gardiens qui la ferment le soir racontent que, certains soirs, on entend des pas dans le déambulatoire. Et que le tympan, éclairé par en dessous, donne l'impression que les damnés ont bougé. Ce n'est pas possible. On regarde quand même.

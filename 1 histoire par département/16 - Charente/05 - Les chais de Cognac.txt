@@ -1,6 +1,6 @@
 TITRE : Les chais de Cognac
 NATURE : rumeur locale — chais réels
-REPÉRES : Cognac, Charente.
+REPÈRES : Cognac, Charente.
 
 [HOOK D'ENTRÉE]
 Les chais de Cognac sont des bâtiments sombres, humides, pleins de fûts alignés. L'alcool s'y évapore lentement. On appelle ça « la part des anges ». Et parfois, les anges prennent autre chose.
@@ -8,7 +8,7 @@ Les chais de Cognac sont des bâtiments sombres, humides, pleins de fûts align�
 [CORPS]
 Le cognac vieillit en fûts de chêne, dans des chais aux murs noirs, couverts d'une moisissure particulière. Des millions de bouteilles dorment là, pendant des décennies.
 
-Les chais sont immenses, silencieux, avec une odeur d'alcool et de bois. Les tonneliers, les cavistes, les gardiens y travaillent. Des accidents ont eu lieu : des chutes, des fûts qui roulent, des hommes écrasés.
+Les chais sont immenses, sîlencieux, avec une odeur d'alcool et de bois. Les tonneliers, les cavistes, les gardiens y travaillent. Des accidents ont eu lieu : des chutes, des fûts qui roulent, des hommes écrasés.
 
 La nuit, les chais sont fermés, sécurisés, éclairés faiblement.
 

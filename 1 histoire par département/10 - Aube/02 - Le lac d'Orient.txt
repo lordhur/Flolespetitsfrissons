@@ -13,4 +13,4 @@ On coupe les arbres, on déplace les bâtiments, on inonde. Le lac fait des diza
 Aujourd'hui, c'est un lieu de loisirs et une réserve naturelle, avec des oiseaux, des observatoires, des plages.
 
 [HOOK DE FIN]
-Les plongeurs qui descendent dans certaines zones retrouvent les arbres debout, les branches intactes, les chemins. Ils décrivent une forêt sous l'eau, silencieuse, avec des allées qui ne mènent nulle part. Et parfois, au fond, une barrière de champ. Elle est encore fermée.
+Les plongeurs qui descendent dans certaines zones retrouvent les arbres debout, les branches intactes, les chemins. Ils décrivent une forêt sous l'eau, sîlencieuse, avec des allées qui ne mènent nulle part. Et parfois, au fond, une barrière de champ. Elle est encore fermée.

@@ -1,6 +1,6 @@
 TITRE : Le phare des Baleines
 NATURE : légende locale — phare réel
-REPÉRES : phare des Baleines, île de Ré.
+REPÈRES : phare des Baleines, île de Ré.
 
 [HOOK D'ENTRÉE]
 À la pointe de l'île de Ré, il y a un phare de cinquante-sept mètres, construit au milieu du dix-neuvième siècle. Il éclaire les navires. Et il porte un nom qui vient des morts.

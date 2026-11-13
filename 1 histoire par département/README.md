@@ -67,7 +67,7 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 
 ## 📊 Avancement
 
-**18 / 101 départements complets** — 180 récits écrits.
+**23 / 101 départements complets** — 230 récits écrits.
 
 | Département | Histoires | État |
 |---|---|---|
@@ -88,9 +88,9 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 | 15 - Cantal | 10/10 | ✅ |
 | 16 - Charente | 10/10 | ✅ |
 | 17 - Charente-Maritime | 10/10 | ✅ |
-| 18 - Cher | 0/10 | ⬜ |
-| 19 - Corrèze | 0/10 | ⬜ |
-| 21 - Côte-d'Or | 0/10 | ⬜ |
+| 18 - Cher | 10/10 | ✅ |
+| 19 - Corrèze | 10/10 | ✅ |
+| 21 - Côte-d'Or | 10/10 | ✅ |
 | 22 - Côtes-d'Armor | 0/10 | ⬜ |
 | 23 - Creuse | 0/10 | ⬜ |
 | 24 - Dordogne | 0/10 | ⬜ |
@@ -99,8 +99,8 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 | 27 - Eure | 0/10 | ⬜ |
 | 28 - Eure-et-Loir | 0/10 | ⬜ |
 | 29 - Finistère | 0/10 | ⬜ |
-| 2A - Corse-du-Sud | 0/10 | ⬜ |
-| 2B - Haute-Corse | 0/10 | ⬜ |
+| 2A - Corse-du-Sud | 10/10 | ✅ |
+| 2B - Haute-Corse | 10/10 | ✅ |
 | 30 - Gard | 0/10 | ⬜ |
 | 31 - Haute-Garonne | 0/10 | ⬜ |
 | 32 - Gers | 0/10 | ⬜ |
