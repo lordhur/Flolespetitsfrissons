@@ -67,7 +67,7 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 
 ## 📊 Avancement
 
-**23 / 101 départements complets** — 230 récits écrits.
+**28 / 101 départements complets** — 280 récits écrits.
 
 | Département | Histoires | État |
 |---|---|---|
@@ -91,11 +91,11 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 | 18 - Cher | 10/10 | ✅ |
 | 19 - Corrèze | 10/10 | ✅ |
 | 21 - Côte-d'Or | 10/10 | ✅ |
-| 22 - Côtes-d'Armor | 0/10 | ⬜ |
-| 23 - Creuse | 0/10 | ⬜ |
-| 24 - Dordogne | 0/10 | ⬜ |
-| 25 - Doubs | 0/10 | ⬜ |
-| 26 - Drôme | 0/10 | ⬜ |
+| 22 - Côtes-d'Armor | 10/10 | ✅ |
+| 23 - Creuse | 10/10 | ✅ |
+| 24 - Dordogne | 10/10 | ✅ |
+| 25 - Doubs | 10/10 | ✅ |
+| 26 - Drôme | 10/10 | ✅ |
 | 27 - Eure | 0/10 | ⬜ |
 | 28 - Eure-et-Loir | 0/10 | ⬜ |
 | 29 - Finistère | 0/10 | ⬜ |
