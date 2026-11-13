@@ -1,0 +1,16 @@
+TITRE : La cathédrale d'Évreux
+NATURE : légende locale — cathédrale gothique
+REPÉRES : Évreux, Eure.
+
+[HOOK D'ENTRÉE]
+La cathédrale d'Évreux a une tour nord, une tour sud, et une troisième qui n'existe pas. Elle a un vitrail célèbre, des gisants, un cloître. Et une porte qui ne s'ouvre pas.
+
+[CORPS]
+La cathédrale est construite du onzième au seizième siècle, remaniée, restaurée. Elle abrite des vitraux, des tombeaux d'évêques, un trésor.
+
+Le cloître, accolé, est un lieu de silence, avec des arcades, des jardins. Des chanoines y ont vécu.
+
+Pendant la guerre, la ville est bombardée. La cathédrale est touchée, les vitraux soufflés, la toiture endommagée. Elle est restaurée après-guerre.
+
+[HOOK DE FIN]
+Les sacristains connaissent une porte, dans le déambulatoire, qui ne s'ouvre jamais : clé perdue, serrure bloquée, ils ne savent plus. Ce qu'ils savent, en revanche, c'est que, l'hiver, il passe un courant d'air froid par cette porte. Un air qui sent la pierre mouillée et la cire. Un jour, un employé a collé un morceau de papier sur le battant, pour tester. Le lendemain, le papier était tombé. À l'intérieur. Et la porte, elle, était toujours verrouillée.
