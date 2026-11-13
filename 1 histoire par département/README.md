@@ -67,13 +67,13 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 
 ## 📊 Avancement
 
-**3 / 101 départements complets** — 30 récits écrits.
+**6 / 101 départements complets** — 60 récits écrits.
 
 | Département | Histoires | État |
 |---|---|---|
-| 01 - Ain | 0/10 | ⬜ |
-| 02 - Aisne | 0/10 | ⬜ |
-| 03 - Allier | 0/10 | ⬜ |
+| 01 - Ain | 10/10 | ✅ |
+| 02 - Aisne | 10/10 | ✅ |
+| 03 - Allier | 10/10 | ✅ |
 | 04 - Alpes-de-Haute-Provence | 0/10 | ⬜ |
 | 05 - Hautes-Alpes | 0/10 | ⬜ |
 | 06 - Alpes-Maritimes | 10/10 | ✅ |
