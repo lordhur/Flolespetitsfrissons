@@ -1,0 +1,16 @@
+TITRE : Sarlat-la-Canéda
+NATURE : légende locale — cité médiévale
+REPÉRES : Sarlat, Dordogne.
+
+[HOOK D'ENTRÉE]
+Sarlat est une ville de pierre blonde, avec des ruelles, des hôtels particuliers, des toits pointus. Elle est magnifique, restaurée, très visitée. Et il y a une rue où l'on ne passe pas la nuit.
+
+[CORPS]
+La ville médiévale s'est développée autour d'une abbaye, puis d'un évêché. Elle a connu les guerres de Religion, la Révolution, le déclin, puis la restauration.
+
+Dans les années 1960, André Malraux lance un plan de sauvegarde : les façades sont nettoyées, les ruelles pavées, les maisons sauvées.
+
+Aujourd'hui, Sarlat vit du tourisme, du foie gras, des festivals. L'été, les rues sont noires de monde.
+
+[HOOK DE FIN]
+Mais il y a une ruelle, derrière la cathédrale, étroite, sans lampe, où les commerçants ne mettent pas de terrasse. Les habitants l'appellent « la rue qui tourne ». Ceux qui s'y engagent à la nuit disent qu'ils ressortent du côté opposé, alors qu'elle est en impasse. Et qu'ils ont marché longtemps. Beaucoup plus longtemps qu'il n'en faut pour traverser dix mètres.
