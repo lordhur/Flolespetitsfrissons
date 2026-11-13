@@ -1,7 +1,7 @@
 # 1 histoire par département — 1 minute pour frissonner
 
-Collection de **micro-récits frissonnants** ancrés dans les 101 départements français (métropole + outre-mer).
-Chaque histoire est un script de **60 secondes** prêt à être lu en voix off, avec une accroche d'entrée et une chute qui reste.
+Collection de **récits de mystère et de frisson** ancrés dans les 101 départements français (métropole + outre-mer).
+Chaque histoire est un script de **60 secondes et plus**, prêt à être lu en voix off, avec une accroche d'entrée et une chute qui reste.
 
 ---
 
@@ -9,47 +9,55 @@ Chaque histoire est un script de **60 secondes** prêt à être lu en voix off, 
 
 - **101 dossiers**, un par département, nommés `NN - Nom du département` (ex. `06 - Alpes-Maritimes`).
 - **10 fichiers `.txt` par dossier** → **1010 histoires**.
-- Chaque fichier traite d'un **lieu, d'une affaire ou d'une légende différents**.
+- Chaque fichier traite d'un **lieu, d'un mystère ou d'une légende différents**.
 
 ```
 1 histoire par département/
-└── 83 - Var/
-    ├── 01 - Malpasset, 21h13.txt
-    ├── 02 - La nuit du 15 juin 2010.txt
+└── 06 - Alpes-Maritimes/
+    ├── 01 - Les lumières du col de Vence.txt
+    ├── 02 - Rocca Sparvièra, le village maudit.txt
     ├── …
-    └── 10 - Le château de Tourtour.txt
+    └── 10 - Le village oublié de Mollières.txt
 ```
 
 ## 🧾 Structure d'un fichier
 
 ```
-TITRE : Malpasset, 21 h 13
-NATURE : fait réel — catastrophe du 2 décembre 1959
-REPÈRES : barrage de Malpasset, vallée du Reyran, Fréjus.
+TITRE : Rocca Sparvièra, le village maudit
+NATURE : légende locale — village réel abandonné en 1723
+REPÈRES : Rocca Sparvièra, au-dessus de Coaraze, arrière-pays niçois.
 
 [HOOK D'ENTRÉE]   → 0-8 s
 [CORPS]           → 8-50 s
 [HOOK DE FIN]     → 50-60 s
 ```
 
-- La ligne **NATURE** distingue : `fait réel`, `fait réel non élucidé`, `légende locale`, `rumeur locale`.
-- La ligne **REPÈRES** donne le lieu et la date vérifiables : c'est le garde-fou anti-invention.
+- **NATURE** : `légende locale`, `légende contemporaine`, `rumeur locale`, `mystère local`, `fait réel`.
+- **REPÈRES** : le lieu et la date vérifiables — c'est le garde-fou anti-invention.
+
+## 🎭 Ligne éditoriale
+
+Ce que l'on raconte :
+
+- **Lieux hantés ou maudits** : villages abandonnés, châteaux en ruine, abbayes, cimetières, phares, hameaux fantômes.
+- **Légendes locales vivantes** : monstres, sorcières, trésors maudits, passages secrets, malédictions — racontées comme des légendes, jamais comme des faits.
+- **Mystères contemporains** : observations inexpliquées, phénomènes aériens, disparitions sans explication, découvertes troublantes.
+
+Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafics), les détails sordides, les affaires trop anciennes et les récits inventés.
 
 ## ✍️ Règles d'écriture
 
-1. **Uniquement du réel** : faits documentés (presse, archives, affaires judiciaires) ou légendes **explicitement annoncées comme légendes**, toujours rattachées à un lieu qui existe.
-2. **Priorité au récent** : événements de moins de 200 ans, ou légende encore vivante aujourd'hui (procession, pèlerinage, rumeur locale actuelle).
-3. **Zéro invention** : pas de dialogue fabriqué présenté comme vrai, pas de témoignage inventé, pas de détail « pour faire peur » qui ne figurerait pas dans les faits. L'ambiance, oui ; le faux témoignage, non.
-4. **10 histoires distinctes** par département : un lieu, une affaire, une légende — jamais deux fois le même sujet.
-5. **Ton angoissant** : phrases courtes, présent, détails sensoriels, pas de morale finale.
-6. **Longueur** : 170 à 190 mots de narration (≈ 60 s à 175 mots/minute).
+1. **Réel uniquement** : le lieu existe, la légende est attestée, l'observation est documentée. Aucun témoignage inventé, aucun détail fabriqué présenté comme vrai.
+2. **Maximum 40 ans** : les faits, phénomènes ou récits rapportés datent de 1985 à aujourd'hui. Une légende plus ancienne n'est retenue que si elle est **encore vivante** (racontée localement, reprise par la presse ou par des témoins récents).
+3. **Ton angoissant** : phrases courtes, présent, détails sensoriels, ambiance plutôt qu'explication. Pas de morale finale.
+4. **Longueur** : 190 à 210 mots de narration (≈ 1 minute à 1 minute 10 à 175 mots/minute).
+5. **10 histoires distinctes** par département : jamais deux fois le même lieu ni le même thème.
 
-## ⚖️ Note éditoriale (avant diffusion)
+## ⚖️ Note éditoriale
 
-- Revérifier systématiquement les dates, les noms et les affaires judiciaires.
-- Ne jamais présenter une personne vivante comme coupable sans condamnation définitive.
-- Pour les victimes, éviter les détails sordides gratuits : le frisson doit venir du mystère, pas du voyeurisme.
-- Les légendes sont racontées comme des légendes (« on raconte », « la rumeur dit »), jamais comme des faits établis.
+- Toujours distinguer ce qui est **fait établi**, ce qui est **témoignage** et ce qui est **légende**.
+- Ne pas nommer ni accuser de personne vivante.
+- Éviter le voyeurisme sur les victimes : le frisson doit venir du mystère, pas du malheur des gens.
 
 ## 🎙️ Mise en voix
 
@@ -59,7 +67,7 @@ REPÈRES : barrage de Malpasset, vallée du Reyran, Fréjus.
 
 ## 📊 Avancement
 
-**3 / 101 départements complets.**
+**3 / 101 départements complets** — 30 récits écrits.
 
 | Département | Histoires | État |
 |---|---|---|
