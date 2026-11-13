@@ -1,0 +1,16 @@
+TITRE : Pibrac
+NATURE : légende locale — village et basilique
+REPÉRES : Pibrac, Haute-Garonne.
+
+[HOOK D'ENTRÉE]
+Pibrac est un village aux portes de Toulouse, avec une basilique, un château, des allées. Il est connu pour un saint, Germier, et pour une fontaine. Et l'on dit que la fontaine exauce les vœux des enfants.
+
+[CORPS]
+Le village s'est développé autour d'un prieuré, puis d'une basilique. Des pèlerins y viennent, des familles, des malades.
+
+Le château, à côté, a appartenu à des familles nobles. Il est aujourd'hui une école, un lieu de réception.
+
+La fontaine, dans un parc, est un lieu de dévotion populaire, avec des marches, une eau, des statues.
+
+[HOOK DE FIN]
+Les habitants racontent que, dans la fontaine, on jette des objets : des médailles, des rubans, des papiers pliés. Le service technique les retire régulièrement. Mais il y a une chose qu'ils ne retirent plus : une petite boîte en fer, fermée, posée dans un renfoncement. Elle est là depuis des années. Personne ne sait qui l'a mise. Un employé a voulu l'ouvrir, une fois. Il a reçu un appel de la mairie, à ce moment-là précis. On lui a dit de la laisser. Il l'a laissée. Et il n'a jamais su qui avait appelé.
