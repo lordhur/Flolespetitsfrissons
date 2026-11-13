@@ -1,0 +1,16 @@
+TITRE : Les remparts d'Angoulême
+NATURE : légende locale — ville réelle
+REPÉRES : Angoulême, Charente.
+
+[HOOK D'ENTRÉE]
+Angoulême est construite sur un plateau, entouré de remparts, au-dessus de la Charente. On y monte par des rampes. Et la nuit, le long des murs, on entend des pas.
+
+[CORPS]
+La ville est une ancienne cité fortifiée, avec une cathédrale, un château, des rues étroites. Elle a été assiégée, prise, brûlée, reconstruite. Les remparts ont été transformés en promenade.
+
+Pendant les guerres, les murs servent de défense, puis de prison, puis de carrière. Des hommes y sont morts. Des corps ont été jetés dans les fossés.
+
+Aujourd'hui, les remparts sont un lieu de balade, avec des jardins, des points de vue, des bars.
+
+[HOOK DE FIN]
+Les soirs d'été, les terrasses sont pleines, la ville brille en dessous. Mais quand on redescend le long des remparts, à la nuit, on a parfois l'impression que quelqu'un marche derrière soi, à la même distance, sur le même chemin. On se retourne. Il n'y a personne. Et les pas, eux, continuent.
