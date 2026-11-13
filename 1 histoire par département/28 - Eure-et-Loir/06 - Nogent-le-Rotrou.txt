@@ -1,0 +1,16 @@
+TITRE : Nogent-le-Rotrou
+NATURE : légende locale — donjon médiéval
+REPÉRES : Nogent-le-Rotrou, Eure-et-Loir.
+
+[HOOK D'ENTRÉE]
+Le donjon de Nogent-le-Rotrou est l'un des plus anciens de France : un bloc de pierre carré, massif, posé sur un éperon. Il domine la ville, la vallée, les toits. Et il a une porte qui donne sur le vide.
+
+[CORPS]
+Le donjon est bâti au onzième siècle, par les comtes du Perche. Il sert de résidence, de poste de guet, de prison.
+
+La ville se développe autour, avec des remparts, une église, un marché. Elle vit du commerce, du cuir, des chevaux.
+
+Le donjon est restauré, ouvert à la visite, avec un escalier, des salles, une vue sur la région.
+
+[HOOK DE FIN]
+Au dernier étage, il y a une ouverture, basse, qui donne sur le vide. Les guides expliquent que c'était une latrine, ou une porte de service. Un jour, un visiteur a demandé pourquoi il y avait des marques sur le seuil. Des marques de doigts, creusées dans la pierre. Le guide a répondu : « L'usure. » Le visiteur a insisté : « L'usure de quoi ? » Le guide n'a pas répondu. Il a fait descendre le groupe.
