@@ -1,0 +1,16 @@
+TITRE : L'abbaye de Bonlieu
+NATURE : légende locale — abbaye en ruine
+REPÉRES : Bonlieu, Peyrat-la-Nonière.
+
+[HOOK D'ENTRÉE]
+Au fond d'un vallon, loin de tout, il y a les ruines d'une abbaye cistercienne. Des murs, une nef à ciel ouvert, des tombes. Et une source qui coule toujours, au milieu.
+
+[CORPS]
+L'abbaye est fondée au douzième siècle, par des moines venus de Bourgogne. Ils défrichent, construisent, aménagent la source, élèvent des bâtiments.
+
+Elle prospère, décline, est abandonnée après la Révolution. Les pierres sont prises par les fermes voisines. Les toits tombent.
+
+Le site est aujourd'hui un lieu de promenade, avec des ruines consolidées, un étang, des arbres.
+
+[HOOK DE FIN]
+Les promeneurs viennent le dimanche, en famille, avec des pique-niques. Mais quand le soir tombe, le vallon devient très sombre, et les ruines se découpent sur le ciel. Ceux qui y sont restés racontent qu'ils ont entendu des chants. Des chants graves, à l'unisson, qui montaient des murs. Il n'y a plus de moines depuis 1791. Et pourtant, les gens du village disent que, certains soirs, il vaut mieux ne pas descendre dans le vallon.
