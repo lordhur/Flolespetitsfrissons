@@ -67,7 +67,7 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 
 ## 📊 Avancement
 
-**50 / 101 départements complets** — 500 récits écrits.
+**55 / 101 départements complets** — 550 récits écrits.
 
 | Département | Histoires | État |
 |---|---|---|
@@ -120,11 +120,11 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 | 46 - Lot | 10/10 | ✅ |
 | 47 - Lot-et-Garonne | 10/10 | ✅ |
 | 48 - Lozère | 10/10 | ✅ |
-| 49 - Maine-et-Loire | 0/10 | ⬜ |
-| 50 - Manche | 0/10 | ⬜ |
-| 51 - Marne | 0/10 | ⬜ |
-| 52 - Haute-Marne | 0/10 | ⬜ |
-| 53 - Mayenne | 0/10 | ⬜ |
+| 49 - Maine-et-Loire | 10/10 | ✅ |
+| 50 - Manche | 10/10 | ✅ |
+| 51 - Marne | 10/10 | ✅ |
+| 52 - Haute-Marne | 10/10 | ✅ |
+| 53 - Mayenne | 10/10 | ✅ |
 | 54 - Meurthe-et-Moselle | 0/10 | ⬜ |
 | 55 - Meuse | 0/10 | ⬜ |
 | 56 - Morbihan | 0/10 | ⬜ |
