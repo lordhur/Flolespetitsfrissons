@@ -1,6 +1,6 @@
 TITRE : Carennac
 NATURE : légende locale — prieuré et cloître
-REPÉRES : Carennac, Lot.
+REPÈRES : Carennac, Lot.
 
 [HOOK D'ENTRÉE]
 Carennac est un village au bord de la Dordogne, avec un prieuré, un cloître roman, des maisons anciennes. Fénelon y a séjourné. Et il y a un tympan où les personnages ont des visages.

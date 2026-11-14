@@ -1,6 +1,6 @@
 TITRE : Le Capitole
 NATURE : légende locale — hôtel de ville
-REPÉRES : Toulouse, Haute-Garonne.
+REPÈRES : Toulouse, Haute-Garonne.
 
 [HOOK D'ENTRÉE]
 Le Capitole est un bâtiment immense, rose, avec une façade, une cour, une salle des Illustres. C'est l'hôtel de ville de Toulouse. Et il y a une salle où les portraits sont un peu trop nombreux.

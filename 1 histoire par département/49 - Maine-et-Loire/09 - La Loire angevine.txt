@@ -1,6 +1,6 @@
 TITRE : La Loire angevine
 NATURE : rumeur locale — fleuve et bancs de sable
-REPÉRES : Loire, Maine-et-Loire.
+REPÈRES : Loire, Maine-et-Loire.
 
 [HOOK D'ENTRÉE]
 La Loire, en Anjou, est large, lente, parsemée d'îles et de bancs de sable. Elle a été une route, un commerce, une menace. Et elle garde ce qu'on lui donne.

@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Bonneval
 NATURE : légende locale — abbaye et reliques
-REPÉRES : Bonneval, Eure-et-Loir.
+REPÈRES : Bonneval, Eure-et-Loir.
 
 [HOOK D'ENTRÉE]
 Bonneval est une petite ville sur le Loir, avec une abbaye, un cloître, une église. Des moines y ont vécu pendant des siècles. Et il y a une châsse que l'on ne montre pas.

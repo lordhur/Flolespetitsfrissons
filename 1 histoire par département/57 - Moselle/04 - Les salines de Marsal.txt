@@ -1,6 +1,6 @@
 TITRE : Les salines de Marsal
 NATURE : mystère local — ville et salines
-REPÉRES : Marsal, Moselle.
+REPÈRES : Marsal, Moselle.
 
 [HOOK D'ENTRÉE]
 Marsal est un village minuscule, avec des remparts, une église, des salines. Il a été une place forte, avec une garnison, des fortifications. Et il n'a plus que quelques habitants.

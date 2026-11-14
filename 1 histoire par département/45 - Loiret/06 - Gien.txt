@@ -1,6 +1,6 @@
 TITRE : Gien
 NATURE : légende locale — ville et Loire
-REPÉRES : Gien, Loiret.
+REPÈRES : Gien, Loiret.
 
 [HOOK D'ENTRÉE]
 Gien est une ville au bord de la Loire, avec un château, une faïencerie, des quais. Elle a été bombardée en 1940. Et sous la ville, il y a des caves qui descendent vers le fleuve.

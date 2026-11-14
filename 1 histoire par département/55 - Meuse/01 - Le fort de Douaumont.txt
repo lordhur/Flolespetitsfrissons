@@ -1,6 +1,6 @@
 TITRE : Le fort de Douaumont
 NATURE : fait réel — fort de Verdun
-REPÉRES : Douaumont, Meuse.
+REPÈRES : Douaumont, Meuse.
 
 [HOOK D'ENTRÉE]
 Le fort de Douaumont est un ouvrage de béton, enterré, avec des galeries, des casemates, des tourelles. Il a été pris en 1916 sans un coup de feu. Et il y a des couloirs où l'on ne s'arrête pas.

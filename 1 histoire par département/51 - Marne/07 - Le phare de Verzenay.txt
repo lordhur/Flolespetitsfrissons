@@ -1,6 +1,6 @@
 TITRE : Le phare de Verzenay
 NATURE : fait réel — phare de vignes
-REPÉRES : Verzenay, Marne.
+REPÈRES : Verzenay, Marne.
 
 [HOOK D'ENTRÉE]
 Au milieu des vignes de Champagne, il y a un phare. Un vrai phare, en brique, avec une lanterne, construit au dix-neuvième siècle. Il n'a jamais éclairé la mer. Et il est toujours debout.

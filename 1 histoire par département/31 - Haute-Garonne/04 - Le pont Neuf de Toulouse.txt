@@ -1,6 +1,6 @@
 TITRE : Le pont Neuf de Toulouse
 NATURE : légende locale — pont sur la Garonne
-REPÉRES : Toulouse, Haute-Garonne.
+REPÈRES : Toulouse, Haute-Garonne.
 
 [HOOK D'ENTRÉE]
 Le pont Neuf de Toulouse est le plus vieux pont de la ville, malgré son nom. Il traverse la Garonne en sept arches, avec des ouvertures, des piles, une longue histoire. Et sous la troisième arche, il y a une marque.

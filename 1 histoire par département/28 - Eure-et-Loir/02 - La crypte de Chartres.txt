@@ -1,6 +1,6 @@
 TITRE : La crypte de Chartres
 NATURE : mystère local — crypte et puits
-REPÉRES : cathédrale de Chartres.
+REPÈRES : cathédrale de Chartres.
 
 [HOOK D'ENTRÉE]
 Sous la cathédrale de Chartres, il y a une crypte, la plus grande de France, avec des chapelles, des couloirs, un puits. Et dans ce puits, on a retrouvé des choses que l'on n'attendait pas.

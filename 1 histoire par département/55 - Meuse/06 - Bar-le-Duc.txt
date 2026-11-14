@@ -1,6 +1,6 @@
 TITRE : Bar-le-Duc
 NATURE : légende locale — ville haute
-REPÉRES : Bar-le-Duc, Meuse.
+REPÈRES : Bar-le-Duc, Meuse.
 
 [HOOK D'ENTRÉE]
 Bar-le-Duc est bâtie sur deux niveaux : la ville basse, le long du canal, et la ville haute, perchée sur un éperon, avec un château, des maisons Renaissance. On y monte par un ascenseur. Et il y a une rue où l'on n'entre pas la nuit.

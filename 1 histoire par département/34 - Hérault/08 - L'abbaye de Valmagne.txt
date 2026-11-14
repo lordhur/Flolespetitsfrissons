@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Valmagne
 NATURE : fait réel — abbaye et chais
-REPÉRES : Villeveyrac, Hérault.
+REPÈRES : Villeveyrac, Hérault.
 
 [HOOK D'ENTRÉE]
 L'abbaye de Valmagne est une abbaye cistercienne du douzième siècle, avec une nef immense, des voûtes, des vitraux. Elle a été transformée en chai. Et l'on y fait du vin dans l'église.

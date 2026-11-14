@@ -1,6 +1,6 @@
 TITRE : Nozeroy
 NATURE : légende locale — petite cité de caractère
-REPÉRES : Nozeroy, Jura.
+REPÈRES : Nozeroy, Jura.
 
 [HOOK D'ENTRÉE]
 Nozeroy est un village posé sur un plateau, avec des maisons anciennes, une collégiale, des ruines de château. Il a été une petite capitale, au Moyen Âge. Et il reste des souterrains.

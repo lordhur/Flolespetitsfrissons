@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Beauport
 NATURE : légende locale — abbaye maritime
-REPÉRES : Paimpol, Côtes-d'Armor.
+REPÈRES : Paimpol, Côtes-d'Armor.
 
 [HOOK D'ENTRÉE]
 L'abbaye de Beauport est posée dans un vallon, à quelques centaines de mètres de la mer, avec un cloître, une salle des hôtes, des jardins. Des moines y ont vécu six siècles. Et il y a une salle où le silence est plus épais qu'ailleurs.

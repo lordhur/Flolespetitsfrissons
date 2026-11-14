@@ -1,6 +1,6 @@
 TITRE : Apremont-sur-Allier
 NATURE : légende locale — village fleuri
-REPÉRES : Apremont-sur-Allier, Nièvre.
+REPÈRES : Apremont-sur-Allier, Nièvre.
 
 [HOOK D'ENTRÉE]
 Apremont-sur-Allier est un village au bord de la rivière, avec un château, un parc, une église, des maisons fleuries. Il est classé parmi les plus beaux de France. Et il y a un pavillon où l'on n'entre pas.

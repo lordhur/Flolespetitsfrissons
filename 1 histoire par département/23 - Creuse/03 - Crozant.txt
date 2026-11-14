@@ -1,6 +1,6 @@
 TITRE : Crozant
 NATURE : légende locale — ruines et gorges
-REPÉRES : Crozant, Creuse.
+REPÈRES : Crozant, Creuse.
 
 [HOOK D'ENTRÉE]
 Crozant est un village au confluent de deux rivières, dominé par des ruines de forteresse. Des peintres y sont venus par dizaines, pour la lumière. Et les habitants y parlent de dames qui reviennent.

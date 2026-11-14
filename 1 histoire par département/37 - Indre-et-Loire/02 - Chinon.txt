@@ -1,6 +1,6 @@
 TITRE : Chinon
 NATURE : légende locale — forteresse royale
-REPÉRES : Chinon, Indre-et-Loire.
+REPÈRES : Chinon, Indre-et-Loire.
 
 [HOOK D'ENTRÉE]
 La forteresse de Chinon domine la Vienne et la ville, avec ses tours, ses remparts, ses souterrains. Jeanne d'Arc y a rencontré Charles VII. Et il y a une tour où l'on n'entre pas seul.

@@ -1,6 +1,6 @@
 TITRE : Saint-Malo
 NATURE : légende locale — cité corsaire
-REPÉRES : Saint-Malo, Ille-et-Vilaine.
+REPÈRES : Saint-Malo, Ille-et-Vilaine.
 
 [HOOK D'ENTRÉE]
 Saint-Malo est une ville fortifiée, posée sur une île, entourée de remparts, battue par la mer. Des corsaires y ont armé des navires. Et quand la marée monte, la ville devient une forteresse dans l'eau.

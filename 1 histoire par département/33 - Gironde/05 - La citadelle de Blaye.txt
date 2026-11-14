@@ -1,6 +1,6 @@
 TITRE : La citadelle de Blaye
 NATURE : fait réel — citadelle de Vauban
-REPÉRES : Blaye, Gironde.
+REPÈRES : Blaye, Gironde.
 
 [HOOK D'ENTRÉE]
 La citadelle de Blaye est une place forte immense, construite par Vauban, face à l'estuaire. Des remparts, des portes, une église, des casernes. Et sous la citadelle, il y a une ville plus ancienne.

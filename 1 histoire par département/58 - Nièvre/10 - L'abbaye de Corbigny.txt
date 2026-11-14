@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Corbigny
 NATURE : mystère local — abbaye et souterrains
-REPÉRES : Corbigny, Nièvre.
+REPÈRES : Corbigny, Nièvre.
 
 [HOOK D'ENTRÉE]
 À Corbigny, il reste une abbaye, avec une église, un cloître, des bâtiments, au bord de l'Yonne. Elle a été fondée au Moyen Âge. Et sous l'abbaye, il y a des caves qui communiquent.

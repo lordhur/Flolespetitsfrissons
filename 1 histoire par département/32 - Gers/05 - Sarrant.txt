@@ -1,6 +1,6 @@
 TITRE : Sarrant
 NATURE : légende locale — village circulaire
-REPÉRES : Sarrant, Gers.
+REPÈRES : Sarrant, Gers.
 
 [HOOK D'ENTRÉE]
 Sarrant est un village construit en cercles, autour d'une église fortifiée. Des maisons à colombages, des portes, des tours. On y entre par des passages voûtés. Et l'on n'en sort pas toujours par où l'on est entré.

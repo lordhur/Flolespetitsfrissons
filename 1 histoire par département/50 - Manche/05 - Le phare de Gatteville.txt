@@ -1,6 +1,6 @@
 TITRE : Le phare de Gatteville
 NATURE : fait réel — phare et naufrages
-REPÉRES : Gatteville-le-Phare, Manche.
+REPÈRES : Gatteville-le-Phare, Manche.
 
 [HOOK D'ENTRÉE]
 Le phare de Gatteville est un phare de pierre, haut de soixante-quinze mètres, avec trois cent soixante-cinq marches. Il éclaire un passage dangereux, entre les bancs et les rochers. Et il y a eu des naufrages.

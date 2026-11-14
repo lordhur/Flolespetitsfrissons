@@ -1,6 +1,6 @@
 TITRE : Arlempdes
 NATURE : légende locale — village et château
-REPÉRES : Arlempdes, Haute-Loire.
+REPÈRES : Arlempdes, Haute-Loire.
 
 [HOOK D'ENTRÉE]
 Arlempdes est un village minuscule, accroché à un piton volcanique, au-dessus de la Loire, avec les ruines d'un château. On y monte par une route étroite. Et l'on n'y reste pas la nuit.

@@ -1,6 +1,6 @@
 TITRE : Le fort de Villey-le-Sec
 NATURE : fait réel — fort Séré de Rivières
-REPÉRES : Villey-le-Sec, Meurthe-et-Moselle.
+REPÈRES : Villey-le-Sec, Meurthe-et-Moselle.
 
 [HOOK D'ENTRÉE]
 Le fort de Villey-le-Sec est un fort du dix-neuvième siècle, avec des remparts, des casemates, des batteries, un village à l'intérieur. Il n'a jamais combattu. Et il y a des souterrains.

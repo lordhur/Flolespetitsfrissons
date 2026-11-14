@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Saint-Roman
 NATURE : mystère local — abbaye troglodyte
-REPÉRES : Beaucaire, Gard.
+REPÈRES : Beaucaire, Gard.
 
 [HOOK D'ENTRÉE]
 Au-dessus du Rhône, sur un plateau de roche, il y a une abbaye creusée dans le calcaire. Des salles, des escaliers, des tombes, une église. Pas un mur construit : tout est taillé dans la pierre.

@@ -1,6 +1,6 @@
 TITRE : La ville d'Ys
 NATURE : légende locale — cité engloutie
-REPÉRES : baie de Douarnenez, Finistère.
+REPÈRES : baie de Douarnenez, Finistère.
 
 [HOOK D'ENTRÉE]
 Dans la baie de Douarnenez, on dit qu'il y a une ville sous l'eau. Des rues, des murs, un palais. On l'appelle Ys. Et par temps calme, on entend ses cloches.

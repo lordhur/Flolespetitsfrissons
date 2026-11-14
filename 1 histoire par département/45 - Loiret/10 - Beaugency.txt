@@ -1,6 +1,6 @@
 TITRE : Beaugency
 NATURE : légende locale — ville et pont
-REPÉRES : Beaugency, Loiret.
+REPÈRES : Beaugency, Loiret.
 
 [HOOK D'ENTRÉE]
 Beaugency est une petite ville au bord de la Loire, avec un pont ancien, une tour, un château, des maisons. Elle a été une place forte. Et il y a une tour où l'on n'entre pas.

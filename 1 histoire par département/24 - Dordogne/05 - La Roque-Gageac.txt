@@ -1,6 +1,6 @@
 TITRE : La Roque-Gageac
 NATURE : légende locale — village troglodyte
-REPÉRES : La Roque-Gageac, Dordogne.
+REPÈRES : La Roque-Gageac, Dordogne.
 
 [HOOK D'ENTRÉE]
 La Roque-Gageac est un village écrasé contre une falaise, au bord de la Dordogne. Des maisons de pierre, des toits bruns, des jardins suspendus, un fort troglodyte. Et une falaise qui tombe.

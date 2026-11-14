@@ -1,6 +1,6 @@
 TITRE : Laval
 NATURE : légende locale — ville et château
-REPÉRES : Laval, Mayenne.
+REPÈRES : Laval, Mayenne.
 
 [HOOK D'ENTRÉE]
 Laval est bâtie sur les deux rives de la Mayenne, avec un château, des maisons anciennes, un pont. Elle a été une ville de tisserands. Et il y a une tour où l'on n'entre pas.

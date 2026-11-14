@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Sorde
 NATURE : mystère local — abbaye et mosaïques
-REPÉRES : Sorde-l'Abbaye, Landes.
+REPÈRES : Sorde-l'Abbaye, Landes.
 
 [HOOK D'ENTRÉE]
 Sorde est un village au bord du gave, avec une abbaye, une église, des maisons anciennes. Sous l'abbaye, il y a des mosaïques romaines. Et un passage qui mène à la rivière.

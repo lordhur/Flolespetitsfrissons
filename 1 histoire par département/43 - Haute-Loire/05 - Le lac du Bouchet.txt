@@ -1,6 +1,6 @@
 TITRE : Le lac du Bouchet
 NATURE : légende locale — lac de cratère
-REPÉRES : lac du Bouchet, Haute-Loire.
+REPÈRES : lac du Bouchet, Haute-Loire.
 
 [HOOK D'ENTRÉE]
 Le lac du Bouchet est un lac rond, dans un cratère, entouré de forêts, à mille deux cents mètres. Il n'a pas de rivière, ni d'entrée, ni de sortie. Et son niveau change.

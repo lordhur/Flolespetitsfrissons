@@ -1,6 +1,6 @@
 TITRE : Sainte-Croix-en-Jarez
 NATURE : fait réel — chartreuse devenue village
-REPÉRES : Sainte-Croix-en-Jarez, Loire.
+REPÈRES : Sainte-Croix-en-Jarez, Loire.
 
 [HOOK D'ENTRÉE]
 Sainte-Croix-en-Jarez est un village installé dans une ancienne chartreuse : les maisons sont les cellules des moines, les rues sont les couloirs du monastère. Et l'on y vit dans les murs d'un cloître.

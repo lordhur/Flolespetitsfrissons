@@ -1,6 +1,6 @@
 TITRE : La basilique Saint-Sernin
 NATURE : fait réel — basilique romane
-REPÉRES : Toulouse, Haute-Garonne.
+REPÈRES : Toulouse, Haute-Garonne.
 
 [HOOK D'ENTRÉE]
 Saint-Sernin est la plus grande église romane d'Europe. Une brique rose, un clocher, une nef immense, une crypte. Des pèlerins y venaient par milliers. Et sous le maître-autel, il y a un tombeau.

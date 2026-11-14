@@ -1,6 +1,6 @@
 TITRE : Saint-Claude
 NATURE : légende locale — ville et abbaye
-REPÉRES : Saint-Claude, Jura.
+REPÈRES : Saint-Claude, Jura.
 
 [HOOK D'ENTRÉE]
 Saint-Claude est une ville serrée dans une vallée étroite, avec une cathédrale, des ponts, des rues en pente. Elle a grandi autour d'une abbaye. Et sous la ville, il y a des caves qui descendent jusqu'à la rivière.

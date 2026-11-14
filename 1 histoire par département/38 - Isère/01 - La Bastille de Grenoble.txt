@@ -1,6 +1,6 @@
 TITRE : La Bastille de Grenoble
 NATURE : fait réel — fortifications
-REPÉRES : Bastille, Grenoble, Isère.
+REPÈRES : Bastille, Grenoble, Isère.
 
 [HOOK D'ENTRÉE]
 La Bastille de Grenoble est une série de forts accrochés à la montagne, au-dessus de la ville, avec des remparts, des escaliers, des tunnels. On y monte en téléphérique. Et il y a un souterrain que l'on n'a jamais fini de dégager.

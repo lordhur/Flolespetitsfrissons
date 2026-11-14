@@ -1,6 +1,6 @@
 TITRE : Flamarens
 NATURE : légende locale — château ruiné
-REPÉRES : Flamarens, Gers.
+REPÈRES : Flamarens, Gers.
 
 [HOOK D'ENTRÉE]
 Flamarens est un château en ruine, posé au milieu des champs, avec des tours, des façades, un escalier. Il est en restauration depuis des décennies. Et une fenêtre reste éclairée.

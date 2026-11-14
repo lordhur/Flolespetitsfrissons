@@ -1,6 +1,6 @@
 TITRE : Le mont des Avaloirs
 NATURE : légende locale — point culminant
-REPÉRES : mont des Avaloirs, Mayenne.
+REPÈRES : mont des Avaloirs, Mayenne.
 
 [HOOK D'ENTRÉE]
 Le mont des Avaloirs est le point culminant de l'Ouest de la France : quatre cent seize mètres. Une butte, une table d'orientation, des forêts. Et l'on y voit la mer, dit-on, par temps clair.

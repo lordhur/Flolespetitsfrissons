@@ -1,6 +1,6 @@
 TITRE : Le lac de Madine
 NATURE : fait réel — lac de barrage
-REPÉRES : lac de Madine, Meuse.
+REPÈRES : lac de Madine, Meuse.
 
 [HOOK D'ENTRÉE]
 Le lac de Madine est un lac de retenue, au milieu des champs et des forêts, avec des rives, des plages, des oiseaux. Il a été créé après la guerre. Et sous l'eau, il y a des fermes.

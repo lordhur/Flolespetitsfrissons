@@ -1,6 +1,6 @@
 TITRE : Chambord
 NATURE : fait réel — château de François Ier
-REPÉRES : Chambord, Loir-et-Cher.
+REPÈRES : Chambord, Loir-et-Cher.
 
 [HOOK D'ENTRÉE]
 Chambord est un château immense, avec des tours, des terrasses, un escalier à double révolution. François Ier l'a fait construire, et il y a séjourné très peu. Et il y a des pièces que l'on n'a jamais finies.

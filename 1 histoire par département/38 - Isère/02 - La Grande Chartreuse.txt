@@ -1,6 +1,6 @@
 TITRE : La Grande Chartreuse
 NATURE : fait réel — monastère de silence
-REPÉRES : Saint-Pierre-de-Chartreuse, Isère.
+REPÈRES : Saint-Pierre-de-Chartreuse, Isère.
 
 [HOOK D'ENTRÉE]
 Au fond d'un désert de montagne, il y a un monastère où vivent des moines qui ne parlent presque jamais. Des murs, des toits, un clocher, une clôture. Et l'on n'y entre pas.

@@ -1,6 +1,6 @@
 TITRE : Langres
 NATURE : légende locale — cité fortifiée
-REPÉRES : Langres, Haute-Marne.
+REPÈRES : Langres, Haute-Marne.
 
 [HOOK D'ENTRÉE]
 Langres est une ville fortifiée, posée sur un éperon, avec des remparts, des tours, une cathédrale. Diderot y est né. Et il y a un souterrain que l'on n'a jamais fini de dégager.

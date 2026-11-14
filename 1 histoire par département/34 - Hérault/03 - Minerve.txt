@@ -1,6 +1,6 @@
 TITRE : Minerve
 NATURE : légende locale — cité cathare
-REPÉRES : Minerve, Hérault.
+REPÈRES : Minerve, Hérault.
 
 [HOOK D'ENTRÉE]
 Minerve est un village posé sur un éperon de roche, entre deux rivières encaissées, avec des ruelles, une église, un pont. Il a été assiégé en 1210. Et il y a un puits que l'on n'a jamais vidé.

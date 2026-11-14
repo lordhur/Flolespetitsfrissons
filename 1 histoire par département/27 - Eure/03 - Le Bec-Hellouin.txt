@@ -1,6 +1,6 @@
 TITRE : Le Bec-Hellouin
 NATURE : légende locale — abbaye vivante
-REPÉRES : Le Bec-Hellouin, Eure.
+REPÈRES : Le Bec-Hellouin, Eure.
 
 [HOOK D'ENTRÉE]
 Au fond d'un vallon, il y a une abbaye normande, avec une tour, des bâtiments, des jardins. Des moines y vivent encore. Et le village, autour, a l'air d'attendre quelque chose.

@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Hambye
 NATURE : légende locale — abbaye en ruine
-REPÉRES : Hambye, Manche.
+REPÈRES : Hambye, Manche.
 
 [HOOK D'ENTRÉE]
 Au fond d'un vallon, il y a une abbaye en ruine, avec une église, un cloître, des bâtiments. Elle a été fondée au douzième siècle. Et il y a une salle où l'on n'entre pas.

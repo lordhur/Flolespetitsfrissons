@@ -1,6 +1,6 @@
 TITRE : Le village de Sion
 NATURE : légende locale — colline et chapelle
-REPÉRES : Sion, Meurthe-et-Moselle.
+REPÈRES : Sion, Meurthe-et-Moselle.
 
 [HOOK D'ENTRÉE]
 Sion est un village posé sur une colline, avec une chapelle, des maisons, des vergers. Il n'y a rien de particulier. Sauf que, de là, on voit tout. Et que l'on y revient toujours.

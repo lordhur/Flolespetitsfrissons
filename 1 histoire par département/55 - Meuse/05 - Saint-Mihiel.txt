@@ -1,6 +1,6 @@
 TITRE : Saint-Mihiel
 NATURE : légende locale — abbaye et sculptures
-REPÉRES : Saint-Mihiel, Meuse.
+REPÈRES : Saint-Mihiel, Meuse.
 
 [HOOK D'ENTRÉE]
 Saint-Mihiel est une petite ville au bord de la Meuse, avec une abbaye, une église, des maisons anciennes. Elle a un sculpteur célèbre. Et il y a un christ qui n'a pas de visage.

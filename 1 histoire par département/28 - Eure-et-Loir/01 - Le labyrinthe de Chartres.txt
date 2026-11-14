@@ -1,6 +1,6 @@
 TITRE : Le labyrinthe de Chartres
 NATURE : fait réel — labyrinthe de la cathédrale
-REPÉRES : cathédrale de Chartres, Eure-et-Loir.
+REPÈRES : cathédrale de Chartres, Eure-et-Loir.
 
 [HOOK D'ENTRÉE]
 Sur le pavement de la cathédrale de Chartres, il y a un labyrinthe de pierre, de douze mètres de diamètre. On le parcourait à genoux, autrefois, pour remplacer le pèlerinage de Jérusalem. Et il a été recouvert pendant des siècles.

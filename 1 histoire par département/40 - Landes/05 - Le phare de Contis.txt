@@ -1,6 +1,6 @@
 TITRE : Le phare de Contis
 NATURE : fait réel — phare et forêt
-REPÉRES : Contis, Landes.
+REPÈRES : Contis, Landes.
 
 [HOOK D'ENTRÉE]
 Le phare de Contis est un phare blanc et noir, posé entre la forêt et l'océan, sur la côte landaise. Il est le seul de la région. Et il a été construit après un naufrage.

@@ -1,6 +1,6 @@
 TITRE : La Brenne
 NATURE : légende locale — pays des mille étangs
-REPÉRES : Brenne, Indre.
+REPÈRES : Brenne, Indre.
 
 [HOOK D'ENTRÉE]
 La Brenne est un pays plat, couvert d'étangs, de roseaux, de forêts, de brandes. On l'appelle « le pays des mille étangs ». Il y a des oiseaux, des hérons, des cistudes. Et des lumières qui se déplacent la nuit.

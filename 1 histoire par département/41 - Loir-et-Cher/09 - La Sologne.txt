@@ -1,6 +1,6 @@
 TITRE : La Sologne
 NATURE : légende locale — pays des étangs
-REPÉRES : Sologne, Loir-et-Cher.
+REPÈRES : Sologne, Loir-et-Cher.
 
 [HOOK D'ENTRÉE]
 La Sologne est un pays de forêts, d'étangs, de bruyères, avec des maisons de briques et des chemins de sable. On y chasse, on s'y promène. Et la nuit, des lumières s'allument sur les étangs.

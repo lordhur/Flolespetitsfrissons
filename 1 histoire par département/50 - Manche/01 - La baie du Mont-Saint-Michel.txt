@@ -1,6 +1,6 @@
 TITRE : La baie du Mont-Saint-Michel
 NATURE : légende locale — baie et sables mouvants
-REPÉRES : baie du Mont-Saint-Michel, Manche.
+REPÈRES : baie du Mont-Saint-Michel, Manche.
 
 [HOOK D'ENTRÉE]
 La baie du Mont-Saint-Michel est une étendue de sable, de vasières et de chenaux, où la mer monte à la vitesse d'un cheval au galop. On la traverse avec un guide. Et l'on ne s'écarte pas.

@@ -1,6 +1,6 @@
 TITRE : Ivry-la-Bataille
 NATURE : légende locale — ruines et bataille
-REPÉRES : Ivry-la-Bataille, Eure.
+REPÈRES : Ivry-la-Bataille, Eure.
 
 [HOOK D'ENTRÉE]
 Ivry-la-Bataille est un village au pied d'un château en ruine, dans la vallée de l'Eure. En 1590, une bataille y a eu lieu, dans la plaine. Des milliers d'hommes y sont morts. Et la terre, dit-on, s'en souvient.

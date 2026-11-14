@@ -1,6 +1,6 @@
 TITRE : Le fort des Rousses
 NATURE : fait réel — fortification
-REPÉRES : Les Rousses, Jura.
+REPÈRES : Les Rousses, Jura.
 
 [HOOK D'ENTRÉE]
 Le fort des Rousses est une immense fortification, enterrée en partie, avec des cours, des casemates, des souterrains. Il a été construit pour défendre la frontière suisse. Et il n'a jamais tiré un coup de canon.

@@ -1,6 +1,6 @@
 TITRE : Larressingle
 NATURE : légende locale — village fortifié
-REPÉRES : Larressingle, Gers.
+REPÈRES : Larressingle, Gers.
 
 [HOOK D'ENTRÉE]
 Larressingle est un village minuscule, entouré de remparts, avec un château, une église, une seule rue. On y entre par un pont-levis. Le soir, tout se referme. Et il y a une maison qui n'a pas de porte.

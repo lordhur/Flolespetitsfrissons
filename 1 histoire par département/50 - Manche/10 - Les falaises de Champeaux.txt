@@ -1,6 +1,6 @@
 TITRE : Les falaises de Champeaux
 NATURE : légende locale — falaises et baie
-REPÉRES : Champeaux, Manche.
+REPÈRES : Champeaux, Manche.
 
 [HOOK D'ENTRÉE]
 À Champeaux, la falaise tombe dans la baie du Mont-Saint-Michel, avec des rochers, des éboulis, des herbus. On y marche pour la vue. Et l'on n'y reste pas quand la brume monte.

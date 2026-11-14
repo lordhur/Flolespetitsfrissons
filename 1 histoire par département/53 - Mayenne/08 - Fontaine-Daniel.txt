@@ -1,6 +1,6 @@
 TITRE : Fontaine-Daniel
 NATURE : légende locale — abbaye et forge
-REPÉRES : Saint-Georges-Buttavent, Mayenne.
+REPÈRES : Saint-Georges-Buttavent, Mayenne.
 
 [HOOK D'ENTRÉE]
 Fontaine-Daniel est un hameau ouvrier, construit autour d'une ancienne abbaye et d'une forge, au fond d'un vallon. Des générations y ont travaillé, logé, vécu. Et il y a une source qui ne tarit pas.

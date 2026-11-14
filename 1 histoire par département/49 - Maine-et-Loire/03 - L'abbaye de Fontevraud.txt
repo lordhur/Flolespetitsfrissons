@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Fontevraud
 NATURE : fait réel — abbaye royale
-REPÉRES : Fontevraud-l'Abbaye, Maine-et-Loire.
+REPÈRES : Fontevraud-l'Abbaye, Maine-et-Loire.
 
 [HOOK D'ENTRÉE]
 Fontevraud est une abbaye immense, avec une église, un cloître, des cuisines, des dortoirs. Des rois y sont enterrés. Et il y a une salle où le silence est absolu.

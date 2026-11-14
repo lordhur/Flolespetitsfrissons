@@ -1,6 +1,6 @@
 TITRE : Le lac de Saint-Point
 NATURE : légende locale — lac naturel
-REPÉRES : Malbuisson, Doubs.
+REPÈRES : Malbuisson, Doubs.
 
 [HOOK D'ENTRÉE]
 Le lac de Saint-Point est un lac de montagne, allongé, encaissé dans les sapins. On y nage, on y pêche, on y fait du bateau. Et quand le vent se lève, son eau devient noire en quelques secondes.

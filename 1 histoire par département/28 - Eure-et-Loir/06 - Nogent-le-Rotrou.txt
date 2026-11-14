@@ -1,6 +1,6 @@
 TITRE : Nogent-le-Rotrou
 NATURE : légende locale — donjon médiéval
-REPÉRES : Nogent-le-Rotrou, Eure-et-Loir.
+REPÈRES : Nogent-le-Rotrou, Eure-et-Loir.
 
 [HOOK D'ENTRÉE]
 Le donjon de Nogent-le-Rotrou est l'un des plus anciens de France : un bloc de pierre carré, massif, posé sur un éperon. Il domine la ville, la vallée, les toits. Et il a une porte qui donne sur le vide.

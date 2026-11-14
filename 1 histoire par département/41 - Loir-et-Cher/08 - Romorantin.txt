@@ -1,6 +1,6 @@
 TITRE : Romorantin
 NATURE : légende locale — ville et Sauldre
-REPÉRES : Romorantin-Lanthenay, Loir-et-Cher.
+REPÈRES : Romorantin-Lanthenay, Loir-et-Cher.
 
 [HOOK D'ENTRÉE]
 Romorantin est une ville au bord de la Sauldre, avec un château, des maisons anciennes, des canaux. Léonard de Vinci y a fait des plans. Et il y a un projet que l'on n'a jamais réalisé, mais dont on parle encore.

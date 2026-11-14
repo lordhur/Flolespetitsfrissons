@@ -1,6 +1,6 @@
 TITRE : Le lac du Salagou
 NATURE : fait réel — lac et village englouti
-REPÉRES : lac du Salagou, Hérault.
+REPÈRES : lac du Salagou, Hérault.
 
 [HOOK D'ENTRÉE]
 Le lac du Salagou est un lac rouge, entouré de terres colorées, avec des collines pelées et des vignes. Il a été créé par un barrage. Et sous l'eau, il y a un village.

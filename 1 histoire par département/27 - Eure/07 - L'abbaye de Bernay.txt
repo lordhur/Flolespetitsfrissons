@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Bernay
 NATURE : légende locale — abbaye romane
-REPÉRES : Bernay, Eure.
+REPÈRES : Bernay, Eure.
 
 [HOOK D'ENTRÉE]
 L'abbaye de Bernay est l'une des plus anciennes de Normandie : une nef romane, des piles, des chapiteaux. Elle a été transformée en grange, en tribunal, en entrepôt. Et il y a un pilier qui n'a pas bougé depuis mille ans.

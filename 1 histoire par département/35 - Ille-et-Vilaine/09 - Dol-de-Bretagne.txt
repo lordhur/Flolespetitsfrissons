@@ -1,6 +1,6 @@
 TITRE : Dol-de-Bretagne
 NATURE : légende locale — cathédrale et marais
-REPÉRES : Dol-de-Bretagne, Ille-et-Vilaine.
+REPÈRES : Dol-de-Bretagne, Ille-et-Vilaine.
 
 [HOOK D'ENTRÉE]
 Dol est une petite ville au milieu des marais, avec une cathédrale immense pour sa taille, des maisons anciennes, une rue de granit. Et sous la ville, il y a des caves qui descendent loin.

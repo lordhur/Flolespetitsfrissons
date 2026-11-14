@@ -1,6 +1,6 @@
 TITRE : Bourbonne-les-Bains
 NATURE : légende locale — station thermale
-REPÉRES : Bourbonne-les-Bains, Haute-Marne.
+REPÈRES : Bourbonne-les-Bains, Haute-Marne.
 
 [HOOK D'ENTRÉE]
 Bourbonne-les-Bains est une petite ville thermale, avec des sources chaudes, des thermes, des maisons anciennes. Les Romains y venaient déjà. Et sous la ville, il y a des caves, et de l'eau chaude partout.

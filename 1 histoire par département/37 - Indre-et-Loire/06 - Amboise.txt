@@ -1,6 +1,6 @@
 TITRE : Amboise
 NATURE : légende locale — château royal
-REPÉRES : Amboise, Indre-et-Loire.
+REPÈRES : Amboise, Indre-et-Loire.
 
 [HOOK D'ENTRÉE]
 Le château d'Amboise domine la Loire, avec des tours, des jardins, une chapelle. Léonard de Vinci est enterré à côté. Et il y a une terrasse où l'on n'entend plus rien.

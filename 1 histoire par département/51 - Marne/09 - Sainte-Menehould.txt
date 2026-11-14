@@ -1,6 +1,6 @@
 TITRE : Sainte-Menehould
 NATURE : légende locale — ville et forêt
-REPÉRES : Sainte-Menehould, Marne.
+REPÈRES : Sainte-Menehould, Marne.
 
 [HOOK D'ENTRÉE]
 Sainte-Menehould est une petite ville au bord de l'Aisne, avec une église, des maisons anciennes, une forêt. Elle est connue pour un plat et pour un roi qui s'y est arrêté. Et il y a un souterrain.

@@ -1,6 +1,6 @@
 TITRE : Villeneuve-sur-Lot
 NATURE : légende locale — bastide et pont
-REPÉRES : Villeneuve-sur-Lot, Lot-et-Garonne.
+REPÈRES : Villeneuve-sur-Lot, Lot-et-Garonne.
 
 [HOOK D'ENTRÉE]
 Villeneuve-sur-Lot est une bastide construite au bord du Lot, avec un pont, des arcades, des maisons anciennes. Elle a été une place forte. Et il y a une tour où l'on n'entre pas.

@@ -67,7 +67,7 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 
 ## 📊 Avancement
 
-**60 / 101 départements complets** — 600 récits écrits.
+**65 / 101 départements complets** — 650 récits écrits.
 
 | Département | Histoires | État |
 |---|---|---|
@@ -130,11 +130,11 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 | 56 - Morbihan | 10/10 | ✅ |
 | 57 - Moselle | 10/10 | ✅ |
 | 58 - Nièvre | 10/10 | ✅ |
-| 59 - Nord | 0/10 | ⬜ |
-| 60 - Oise | 0/10 | ⬜ |
-| 61 - Orne | 0/10 | ⬜ |
-| 62 - Pas-de-Calais | 0/10 | ⬜ |
-| 63 - Puy-de-Dôme | 0/10 | ⬜ |
+| 59 - Nord | 10/10 | ✅ |
+| 60 - Oise | 10/10 | ✅ |
+| 61 - Orne | 10/10 | ✅ |
+| 62 - Pas-de-Calais | 10/10 | ✅ |
+| 63 - Puy-de-Dôme | 10/10 | ✅ |
 | 64 - Pyrénées-Atlantiques | 0/10 | ⬜ |
 | 65 - Hautes-Pyrénées | 0/10 | ⬜ |
 | 66 - Pyrénées-Orientales | 0/10 | ⬜ |

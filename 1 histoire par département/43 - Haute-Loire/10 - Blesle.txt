@@ -1,6 +1,6 @@
 TITRE : Blesle
 NATURE : légende locale — village médiéval
-REPÉRES : Blesle, Haute-Loire.
+REPÈRES : Blesle, Haute-Loire.
 
 [HOOK D'ENTRÉE]
 Blesle est un village au confluent de deux rivières, avec une abbaye, des maisons à tourelles, des ruelles. Il a été fondé par une abbesse. Et il y a une maison où l'on ne compte pas les fenêtres.

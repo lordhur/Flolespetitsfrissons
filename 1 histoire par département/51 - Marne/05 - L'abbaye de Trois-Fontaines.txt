@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Trois-Fontaines
 NATURE : fait réel — abbaye cistercienne
-REPÉRES : Trois-Fontaines-l'Abbaye, Marne.
+REPÈRES : Trois-Fontaines-l'Abbaye, Marne.
 
 [HOOK D'ENTRÉE]
 Au fond d'une forêt, il y a une abbaye cistercienne, avec une église, un cloître, des bâtiments. Des moines y ont vécu sept siècles. Et il y a une source qui ne tarit pas.

@@ -1,6 +1,6 @@
 TITRE : Le barrage de Villerest
 NATURE : fait réel — lac et village
-REPÉRES : Villerest, Loire.
+REPÈRES : Villerest, Loire.
 
 [HOOK D'ENTRÉE]
 Le barrage de Villerest retient la Loire sur des kilomètres, formant un lac, avec des rives, des plages, des ponts. Il protège la vallée des crues. Et sous l'eau, il y a des routes.

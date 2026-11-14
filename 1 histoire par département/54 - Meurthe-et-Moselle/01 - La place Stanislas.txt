@@ -1,6 +1,6 @@
 TITRE : La place Stanislas
 NATURE : fait réel — place royale
-REPÉRES : Nancy, Meurthe-et-Moselle.
+REPÈRES : Nancy, Meurthe-et-Moselle.
 
 [HOOK D'ENTRÉE]
 La place Stanislas est une place royale, avec des grilles dorées, des fontaines, un hôtel de ville, des statues. Elle est classée à l'UNESCO. Et sous son pavé, il y a autre chose.

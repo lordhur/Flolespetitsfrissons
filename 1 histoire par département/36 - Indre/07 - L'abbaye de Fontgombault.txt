@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Fontgombault
 NATURE : fait réel — abbaye bénédictine
-REPÉRES : Fontgombault, Indre.
+REPÈRES : Fontgombault, Indre.
 
 [HOOK D'ENTRÉE]
 Au bord de la Creuse, il y a une abbaye bénédictine, avec une église romane, un cloître, des jardins. Des moines y chantent en latin, plusieurs fois par jour. Et le chant ne s'arrête jamais tout à fait.

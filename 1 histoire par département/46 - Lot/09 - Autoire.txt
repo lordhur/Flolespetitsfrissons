@@ -1,6 +1,6 @@
 TITRE : Autoire
 NATURE : légende locale — village et cascade
-REPÉRES : Autoire, Lot.
+REPÈRES : Autoire, Lot.
 
 [HOOK D'ENTRÉE]
 Autoire est un village au fond d'un cirque de falaises, avec des maisons anciennes, un château, une cascade. On y descend par une route en lacets. Et l'on y entre comme dans une cuve.

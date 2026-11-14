@@ -1,6 +1,6 @@
 TITRE : La ville close de Concarneau
 NATURE : légende locale — cité fortifiée
-REPÉRES : Concarneau, Finistère.
+REPÈRES : Concarneau, Finistère.
 
 [HOOK D'ENTRÉE]
 La ville close de Concarneau est un îlot fortifié, avec des remparts, des ruelles, une église, un port. On y entre par un pont. Et quand on en ressort, le soir, on a l'impression d'être suivi.

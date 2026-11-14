@@ -1,6 +1,6 @@
 TITRE : Rochefort-en-Terre
 NATURE : légende locale — village de caractère
-REPÉRES : Rochefort-en-Terre, Morbihan.
+REPÈRES : Rochefort-en-Terre, Morbihan.
 
 [HOOK D'ENTRÉE]
 Rochefort-en-Terre est un village posé sur un promontoire, avec un château, une église, des maisons de pierre, des fleurs partout. Il est classé parmi les plus beaux de France. Et il y a une rue où l'on ne passe pas la nuit.

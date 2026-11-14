@@ -1,6 +1,6 @@
 TITRE : Les carrières de Pierre-la-Treiche
 NATURE : mystère local — carrières souterraines
-REPÉRES : Pierre-la-Treiche, Meurthe-et-Moselle.
+REPÈRES : Pierre-la-Treiche, Meurthe-et-Moselle.
 
 [HOOK D'ENTRÉE]
 Sous un village, le long de la Moselle, il y a des carrières souterraines, creusées dans le calcaire. Des galeries, des salles, des piliers. Et l'on n'y entre pas sans guide.

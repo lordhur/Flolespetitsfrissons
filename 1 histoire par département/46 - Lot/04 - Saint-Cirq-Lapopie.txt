@@ -1,6 +1,6 @@
 TITRE : Saint-Cirq-Lapopie
 NATURE : légende locale — village suspendu
-REPÉRES : Saint-Cirq-Lapopie, Lot.
+REPÈRES : Saint-Cirq-Lapopie, Lot.
 
 [HOOK D'ENTRÉE]
 Saint-Cirq-Lapopie est un village accroché à une falaise, au-dessus du Lot, avec des maisons de pierre, des toits bruns, une église. On y monte par une route étroite. Et l'on n'y reste pas la nuit.

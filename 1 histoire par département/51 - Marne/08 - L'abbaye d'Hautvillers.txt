@@ -1,6 +1,6 @@
 TITRE : L'abbaye d'Hautvillers
 NATURE : légende locale — abbaye et Dom Pérignon
-REPÉRES : Hautvillers, Marne.
+REPÈRES : Hautvillers, Marne.
 
 [HOOK D'ENTRÉE]
 À Hautvillers, il y a une abbaye, devenue église, avec un cloître, des vitraux, un tombeau. Dom Pérignon y a vécu. Et il y a une cave où l'on n'entre pas.

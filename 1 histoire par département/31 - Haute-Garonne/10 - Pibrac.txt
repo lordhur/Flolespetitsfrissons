@@ -1,6 +1,6 @@
 TITRE : Pibrac
 NATURE : légende locale — village et basilique
-REPÉRES : Pibrac, Haute-Garonne.
+REPÈRES : Pibrac, Haute-Garonne.
 
 [HOOK D'ENTRÉE]
 Pibrac est un village aux portes de Toulouse, avec une basilique, un château, des allées. Il est connu pour un saint, Germier, et pour une fontaine. Et l'on dit que la fontaine exauce les vœux des enfants.

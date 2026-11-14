@@ -1,6 +1,6 @@
 TITRE : Le lac de Naussac
 NATURE : fait réel — lac de barrage
-REPÉRES : lac de Naussac, Lozère.
+REPÈRES : lac de Naussac, Lozère.
 
 [HOOK D'ENTRÉE]
 Le lac de Naussac est un lac de retenue, au milieu des plateaux, avec des rives basses, des plages, des oiseaux. Il a été créé pour soutenir l'Allier. Et sous l'eau, il y a un village.

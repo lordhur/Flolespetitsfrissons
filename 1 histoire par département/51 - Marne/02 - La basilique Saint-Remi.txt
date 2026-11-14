@@ -1,6 +1,6 @@
 TITRE : La basilique Saint-Remi
 NATURE : fait réel — basilique et reliques
-REPÉRES : Reims, Marne.
+REPÈRES : Reims, Marne.
 
 [HOOK D'ENTRÉE]
 La basilique Saint-Remi est une église romane, avec une nef, des vitraux, un tombeau. Elle abrite les reliques de saint Remi, qui a baptisé Clovis. Et il y a une crypte où l'on n'entre pas.

@@ -1,6 +1,6 @@
 TITRE : Mont-de-Marsan
 NATURE : légende locale — ville et confluence
-REPÉRES : Mont-de-Marsan, Landes.
+REPÈRES : Mont-de-Marsan, Landes.
 
 [HOOK D'ENTRÉE]
 Mont-de-Marsan est construite au confluent de deux rivières, le Midou et la Douze, avec un donjon, des remparts, des berges. Elle a été une place militaire. Et sous la ville, il y a des galeries.

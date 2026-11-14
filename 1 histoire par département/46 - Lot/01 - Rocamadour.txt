@@ -1,6 +1,6 @@
 TITRE : Rocamadour
 NATURE : légende locale — cité verticale
-REPÉRES : Rocamadour, Lot.
+REPÈRES : Rocamadour, Lot.
 
 [HOOK D'ENTRÉE]
 Rocamadour est un village accroché à une falaise, avec des maisons superposées, des sanctuaires, un château au sommet, une épée plantée dans un rocher. Et il y a un escalier que l'on ne monte pas à genoux pour rien.

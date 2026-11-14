@@ -1,6 +1,6 @@
 TITRE : La basilique d'Avioth
 NATURE : mystère local — basilique isolée
-REPÉRES : Avioth, Meuse.
+REPÈRES : Avioth, Meuse.
 
 [HOOK D'ENTRÉE]
 À Avioth, il y a une basilique gothique immense, au milieu des champs, avec un village minuscule autour. Elle n'a pas de ville. Elle a été construite pour une statue trouvée dans un buisson.

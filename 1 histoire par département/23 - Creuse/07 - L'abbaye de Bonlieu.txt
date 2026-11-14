@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Bonlieu
 NATURE : légende locale — abbaye en ruine
-REPÉRES : Bonlieu, Peyrat-la-Nonière.
+REPÈRES : Bonlieu, Peyrat-la-Nonière.
 
 [HOOK D'ENTRÉE]
 Au fond d'un vallon, loin de tout, il y a les ruines d'une abbaye cistercienne. Des murs, une nef à ciel ouvert, des tombes. Et une source qui coule toujours, au milieu.

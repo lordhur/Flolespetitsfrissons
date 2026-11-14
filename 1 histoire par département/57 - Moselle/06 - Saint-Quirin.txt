@@ -1,6 +1,6 @@
 TITRE : Saint-Quirin
 NATURE : légende locale — village et prieuré
-REPÉRES : Saint-Quirin, Moselle.
+REPÈRES : Saint-Quirin, Moselle.
 
 [HOOK D'ENTRÉE]
 Saint-Quirin est un village au fond d'une vallée vosgienne, avec un prieuré, une église, des maisons de grès. Il est isolé, silencieux, entouré de forêts. Et il y a une croix qui change de place.

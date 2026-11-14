@@ -1,6 +1,6 @@
 TITRE : Le château de la Bourbansais
 NATURE : légende locale — château et parc
-REPÉRES : Pleugueneuc, Ille-et-Vilaine.
+REPÈRES : Pleugueneuc, Ille-et-Vilaine.
 
 [HOOK D'ENTRÉE]
 Le château de la Bourbansais est une demeure classique, avec des jardins, des communs, un parc zoologique. Il est habité par la même famille depuis quatre siècles. Et il y a une chambre où l'on ne dort pas deux nuits.

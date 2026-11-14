@@ -1,6 +1,6 @@
 TITRE : Longwy
 NATURE : légende locale — ville fortifiée
-REPÉRES : Longwy, Meurthe-et-Moselle.
+REPÈRES : Longwy, Meurthe-et-Moselle.
 
 [HOOK D'ENTRÉE]
 Longwy est une ville fortifiée, construite par Vauban, avec des remparts, des bastions, une place. Elle a été assiégée, bombardée, reconstruite. Et sous la ville, il y a des galeries.

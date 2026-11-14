@@ -1,6 +1,6 @@
 TITRE : Le gouffre de Plougrescant
 NATURE : légende locale — gouffre marin
-REPÉRES : Plougrescant, Côtes-d'Armor.
+REPÈRES : Plougrescant, Côtes-d'Armor.
 
 [HOOK D'ENTRÉE]
 Sur la côte du Trégor, il y a un entonnoir de roche, ouvert dans la falaise, qui descend jusqu'à la mer. L'eau y tourne, monte, descend. On l'appelle le gouffre. Et l'on n'y jette rien.

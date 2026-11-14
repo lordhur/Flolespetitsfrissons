@@ -1,6 +1,6 @@
 TITRE : Rodemack
 NATURE : légende locale — petite citadelle
-REPÉRES : Rodemack, Moselle.
+REPÈRES : Rodemack, Moselle.
 
 [HOOK D'ENTRÉE]
 Rodemack est un village fortifié, avec des remparts, des tours, un château, des jardins. On l'appelle la petite Carcassonne de Lorraine. Et il y a une tour où l'on n'entre pas.
