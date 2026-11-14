@@ -67,7 +67,7 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 
 ## 📊 Avancement
 
-**84 / 101 départements complets** — 840 récits écrits.
+**89 / 101 départements complets** — 890 récits écrits.
 
 | Département | Histoires | État |
 |---|---|---|
@@ -155,11 +155,11 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 | 81 - Tarn | 10/10 | ✅ |
 | 82 - Tarn-et-Garonne | 10/10 | ✅ |
 | 83 - Var | 10/10 | ✅ |
-| 84 - Vaucluse | 0/10 | ⬜ |
-| 85 - Vendée | 0/10 | ⬜ |
-| 86 - Vienne | 0/10 | ⬜ |
-| 87 - Haute-Vienne | 0/10 | ⬜ |
-| 88 - Vosges | 0/10 | ⬜ |
+| 84 - Vaucluse | 10/10 | ✅ |
+| 85 - Vendée | 10/10 | ✅ |
+| 86 - Vienne | 10/10 | ✅ |
+| 87 - Haute-Vienne | 10/10 | ✅ |
+| 88 - Vosges | 10/10 | ✅ |
 | 89 - Yonne | 0/10 | ⬜ |
 | 90 - Territoire de Belfort | 0/10 | ⬜ |
 | 91 - Essonne | 0/10 | ⬜ |
