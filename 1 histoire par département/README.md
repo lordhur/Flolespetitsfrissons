@@ -67,7 +67,7 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 
 ## 📊 Avancement
 
-**70 / 101 départements complets** — 700 récits écrits.
+**71 / 101 départements complets** — 710 récits écrits.
 
 | Département | Histoires | État |
 |---|---|---|
@@ -140,7 +140,7 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 | 66 - Pyrénées-Orientales | 10/10 | ✅ |
 | 67 - Bas-Rhin | 10/10 | ✅ |
 | 68 - Haut-Rhin | 10/10 | ✅ |
-| 69 - Rhône | 0/10 | ⬜ |
+| 69 - Rhône | 10/10 | ✅ |
 | 70 - Haute-Saône | 0/10 | ⬜ |
 | 71 - Saône-et-Loire | 0/10 | ⬜ |
 | 72 - Sarthe | 0/10 | ⬜ |
