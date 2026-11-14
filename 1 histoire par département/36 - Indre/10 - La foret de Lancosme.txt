@@ -1,0 +1,16 @@
+TITRE : La forêt de Lancosme
+NATURE : légende locale — forêt domaniale
+REPÉRES : forêt de Lancosme, Indre.
+
+[HOOK D'ENTRÉE]
+La forêt de Lancosme est un massif de chênes, avec des étangs, des allées, une abbaye en ruine. Elle a appartenu à des moines, puis à des nobles, puis à l'État. Et il y a une allée que les chasseurs évitent.
+
+[CORPS]
+La forêt est domaniale, ancienne, exploitée. Elle alimente des forges, des tuileries, des métairies.
+
+Des étangs y ont été creusés, des allées tracées, des bornes plantées. Des générations de forestiers y ont travaillé.
+
+Aujourd'hui, on y chasse, on y promène, on y cueille des champignons.
+
+[HOOK DE FIN]
+Les chasseurs et les forestiers racontent que, dans une allée, au nord, les chiens s'arrêtent net. Ils lèvent la tête, reculent, refusent d'avancer. Pas une fois : chaque fois. Un garde a mesuré : le phénomène commence toujours au même mètre. Il a examiné le sol, les arbres, les bornes. Rien. Un ancien a dit : « Il y avait un rendez-vous là. » Puis il a ajouté : « Un rendez-vous de chasse. Les chiens s'en souviennent. » Il n'a pas précisé de quelle époque.
