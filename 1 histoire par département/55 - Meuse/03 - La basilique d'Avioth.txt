@@ -1,0 +1,16 @@
+TITRE : La basilique d'Avioth
+NATURE : mystère local — basilique isolée
+REPÉRES : Avioth, Meuse.
+
+[HOOK D'ENTRÉE]
+À Avioth, il y a une basilique gothique immense, au milieu des champs, avec un village minuscule autour. Elle n'a pas de ville. Elle a été construite pour une statue trouvée dans un buisson.
+
+[CORPS]
+La basilique est construite du treizième au quinzième siècle, agrandie, enrichie. Des pèlerins y viennent, nombreux.
+
+Elle abrite une Vierge, des vitraux, des sculptures. Le village, lui, compte quelques dizaines d'habitants.
+
+L'édifice est restauré, classé, ouvert. Des messes y sont célébrées.
+
+[HOOK DE FIN]
+Les guides racontent la découverte de la statue, les miracles, les pèlerinages. Puis ils font remarquer une chose : la basilique est beaucoup trop grande pour le village. On leur a demandé pourquoi. Un habitant a répondu : « Parce qu'il y avait une ville. » Puis il a précisé : « Il n'y en a plus. » Il a montré les champs. « Sous les blés, il y a des murs. On laboure dessus. Et parfois, on trouve des pierres taillées. »
