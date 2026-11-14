@@ -1,6 +1,6 @@
 TITRE : Blandy-les-Tours
 NATURE : fait réel — château médiéval
-REPÉRES : Blandy-les-Tours, Seine-et-Marne.
+REPÈRES : Blandy-les-Tours, Seine-et-Marne.
 
 [HOOK D'ENTRÉE]
 Blandy-les-Tours est un château fort, avec des tours, des remparts, une cour, un village à l'intérieur de l'enceinte. Il a été démantelé, puis sauvé. Et il y a une tour où l'on n'entre pas.

@@ -1,6 +1,6 @@
 TITRE : Les falaises d'Étretat
 NATURE : légende locale — falaises et aiguille
-REPÉRES : Étretat, Seine-Maritime.
+REPÈRES : Étretat, Seine-Maritime.
 
 [HOOK D'ENTRÉE]
 Étretat est un village au pied de falaises blanches, avec une aiguille de craie, une arche, des galets, des valleuses. La mer y creuse sans arrêt. Et il y a un endroit où la falaise ne recule pas.

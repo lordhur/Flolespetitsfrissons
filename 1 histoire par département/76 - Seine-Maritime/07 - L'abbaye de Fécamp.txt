@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Fécamp
 NATURE : fait réel — abbaye bénédictine
-REPÉRES : Fécamp, Seine-Maritime.
+REPÈRES : Fécamp, Seine-Maritime.
 
 [HOOK D'ENTRÉE]
 Fécamp est une ville de pêcheurs, avec un port, des falaises, une abbaye, une église, un palais. Elle a gardé une relique célèbre. Et il y a une salle où l'on n'entre pas.

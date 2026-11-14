@@ -1,6 +1,6 @@
 TITRE : Le Gros-Horloge
 NATURE : fait réel — horloge de Rouen
-REPÉRES : Rouen, Seine-Maritime.
+REPÈRES : Rouen, Seine-Maritime.
 
 [HOOK D'ENTRÉE]
 Le Gros-Horloge est une horloge dans un beffroi, au-dessus d'une rue, avec un cadran doré, une aiguillée unique, un globe, des arcades. Elle donne l'heure depuis des siècles. Et il y a une heure qu'elle ne marque pas.

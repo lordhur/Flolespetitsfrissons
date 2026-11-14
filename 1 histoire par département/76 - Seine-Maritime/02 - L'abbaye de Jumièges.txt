@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Jumièges
 NATURE : fait réel — ruines abbatiales
-REPÉRES : Jumièges, Seine-Maritime.
+REPÈRES : Jumièges, Seine-Maritime.
 
 [HOOK D'ENTRÉE]
 Jumièges est une abbaye en ruine, avec deux tours, des murs hauts, un cloître effacé, des arbres, des prés autour. Elle a été l'une des plus puissantes de Normandie. Et il y a une nef sans toit où le son ne se perd pas.

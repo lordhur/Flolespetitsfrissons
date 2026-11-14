@@ -1,6 +1,6 @@
 TITRE : Le château de Champs-sur-Marne
 NATURE : fait réel — château et parc
-REPÉRES : Champs-sur-Marne, Seine-et-Marne.
+REPÈRES : Champs-sur-Marne, Seine-et-Marne.
 
 [HOOK D'ENTRÉE]
 Champs-sur-Marne est un château de pierre blanche, avec des façades, un escalier, des salons, un parc dessiné, des canaux. Il a été bâti pour un financier. Et il y a une pièce où les meubles sont déplacés.

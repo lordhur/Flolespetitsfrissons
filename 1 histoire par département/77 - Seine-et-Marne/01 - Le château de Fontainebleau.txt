@@ -1,6 +1,6 @@
 TITRE : Le château de Fontainebleau
 NATURE : fait réel — château royal
-REPÉRES : Fontainebleau, Seine-et-Marne.
+REPÈRES : Fontainebleau, Seine-et-Marne.
 
 [HOOK D'ENTRÉE]
 Fontainebleau est un château de brique et de pierre, avec des cours, des escaliers, des galeries, un parc, une forêt. Il a été habité par des rois et un empereur. Et il y a une pièce où l'on n'entre pas.

@@ -1,6 +1,6 @@
 TITRE : La forêt de Fontainebleau
 NATURE : légende locale — forêt et chaos de grès
-REPÉRES : Fontainebleau, Seine-et-Marne.
+REPÈRES : Fontainebleau, Seine-et-Marne.
 
 [HOOK D'ENTRÉE]
 La forêt de Fontainebleau est un massif de chênes et de pins, avec des chaos de grès, des platières, des mares, des sentiers. Elle a inspiré des peintres. Et il y a un chaos où les blocs ne sont pas à leur place.

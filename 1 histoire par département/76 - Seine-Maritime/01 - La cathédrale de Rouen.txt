@@ -1,6 +1,6 @@
 TITRE : La cathédrale de Rouen
 NATURE : fait réel — cathédrale gothique
-REPÉRES : Rouen, Seine-Maritime.
+REPÈRES : Rouen, Seine-Maritime.
 
 [HOOK D'ENTRÉE]
 La cathédrale de Rouen est un vaisseau de pierre, avec une façade sculptée, une tour, une flèche, des vitraux, des tombeaux. Elle a été peinte, photographiée, bombardée. Et il y a une chapelle où l'on n'entre pas.

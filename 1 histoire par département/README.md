@@ -67,7 +67,7 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 
 ## 📊 Avancement
 
-**77 / 101 départements complets** — 770 récits écrits.
+**79 / 101 départements complets** — 790 récits écrits.
 
 | Département | Histoires | État |
 |---|---|---|
@@ -147,8 +147,8 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 | 73 - Savoie | 10/10 | ✅ |
 | 74 - Haute-Savoie | 10/10 | ✅ |
 | 75 - Paris | 10/10 | ✅ |
-| 76 - Seine-Maritime | 0/10 | ⬜ |
-| 77 - Seine-et-Marne | 0/10 | ⬜ |
+| 76 - Seine-Maritime | 10/10 | ✅ |
+| 77 - Seine-et-Marne | 10/10 | ✅ |
 | 78 - Yvelines | 0/10 | ⬜ |
 | 79 - Deux-Sèvres | 0/10 | ⬜ |
 | 80 - Somme | 0/10 | ⬜ |

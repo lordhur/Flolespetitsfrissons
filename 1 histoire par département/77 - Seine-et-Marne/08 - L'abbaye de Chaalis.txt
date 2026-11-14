@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Chaalis
 NATURE : fait réel — abbaye et musée
-REPÉRES : Fontaine-Chaalis, Seine-et-Marne.
+REPÈRES : Fontaine-Chaalis, Seine-et-Marne.
 
 [HOOK D'ENTRÉE]
 Chaalis est une abbaye cistercienne en ruine, avec une chapelle, un cloître disparu, un bâtiment, un parc, des étangs, une forêt. Elle garde des collections. Et il y a une salle où l'on n'entre pas.
