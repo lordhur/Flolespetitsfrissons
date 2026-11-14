@@ -1,0 +1,16 @@
+TITRE : Le Père-Lachaise
+NATURE : légende locale — cimetière
+REPÉRES : Paris.
+
+[HOOK D'ENTRÉE]
+Le Père-Lachaise est un cimetière en terrasses, avec des allées, des arbres, des tombeaux, des chapelles, des chats. On y vient par curiosité, par respect, par hasard. Et il y a une tombe où l'on ne dépose pas de fleurs.
+
+[CORPS]
+Le cimetière est ouvert au début du dix-neuvième siècle, sur une colline, hors de la ville.
+
+Il accueille des écrivains, des musiciens, des savants, des anonymes, dans des tombeaux de toutes les époques.
+
+Il est arboré, parcouru, entretenu. Certaines tombes sont célèbres, d'autres oubliées.
+
+[HOOK DE FIN]
+Les gardiens racontent les transferts, les monuments, les visiteurs. Puis ils parlent d'une tombe, dans une allée secondaire, avec une simple pierre et un nom effacé. Personne n'y dépose de fleurs. Un jour, un visiteur a demandé pourquoi. Le gardien a répondu : « Parce qu'elles disparaissent. » Il a haussé les épaules. « On en a mis, une fois. Des roses. » Il a montré la pierre. « Le lendemain, il n'y avait plus rien. Pas de pétales. Rien. » Le visiteur a demandé si c'était un chat. Le gardien a souri. « Un chat laisse des traces. » Puis il a ajouté : « Là, il n'y en a jamais. »
