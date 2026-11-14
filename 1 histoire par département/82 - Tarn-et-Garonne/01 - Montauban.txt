@@ -1,0 +1,16 @@
+TITRE : Montauban
+NATURE : fait réel — ville de brique
+REPÉRES : Montauban, Tarn-et-Garonne.
+
+[HOOK D'ENTRÉE]
+Montauban est une ville rose, bâtie en brique, au bord du Tarn, avec une place, une cathédrale, un pont, des arcades. Elle a été fondée par un traité. Et il y a une place où l'on n'entend pas les pas.
+
+[CORPS]
+La ville est fondée au douzième siècle, avec un plan régulier, des rues droites, des arcades.
+
+Elle est fortifiée, assiégée, prise, et devient une place protestante, puis catholique.
+
+Elle est restaurée, et son centre, ses arcades, son musée, se visitent, avec le pont et les quais.
+
+[HOOK DE FIN]
+Les habitants racontent que, sur la place, il y a un endroit où l'on n'entend pas ses pas. On marche, mais le bruit est étouffé. Un jour, un acousticien est venu, avec un appareil. Il a mesuré : le son est absorbé, sur quelques mètres. Il a cherché une explication : le revêtement, un vide, une cave. Il a demandé à un ancien. L'ancien a hoché la tête. « C'est le puits. » Il a montré le sol. « Il a été bouché, sous la place. » L'acousticien a demandé pourquoi. L'ancien a haussé les épaules. « Parce qu'on y jetait des choses. » Il a baissé la voix. « Pas de l'eau. » Puis il a ajouté : « Et depuis, le bruit ne remonte pas. »
