@@ -1,0 +1,16 @@
+TITRE : Laval
+NATURE : légende locale — ville et château
+REPÉRES : Laval, Mayenne.
+
+[HOOK D'ENTRÉE]
+Laval est bâtie sur les deux rives de la Mayenne, avec un château, des maisons anciennes, un pont. Elle a été une ville de tisserands. Et il y a une tour où l'on n'entre pas.
+
+[CORPS]
+Le château est construit au onzième siècle, remanié, agrandi. Il contrôle la rivière, le passage, la route.
+
+La ville se développe, avec des quais, des moulins, des ateliers. Elle vit du lin, du papier, du commerce.
+
+Le château devient un musée, la ville se restaure, les quais s'aménagent.
+
+[HOOK DE FIN]
+Dans une des tours, il y a une salle voûtée, fermée par une grille. Les guides expliquent qu'elle servait de cachot. Un jour, un gardien a entendu, à l'intérieur, un bruit de pas. Il a ouvert. La salle était vide. Il a éclairé les murs. Il y avait des graffitis, anciens, et un dessin : un bateau. Il a refermé. Puis il a remarqué une chose : le dessin n'était pas là la semaine d'avant. Il l'a signalé. On lui a répondu : « C'est un plaisantin. » Il n'a pas insisté.
