@@ -1,0 +1,16 @@
+TITRE : L'abbaye des Vaux-de-Cernay
+NATURE : fait réel — abbaye cistercienne
+REPÉRES : Cernay-la-Ville, Yvelines.
+
+[HOOK D'ENTRÉE]
+Les Vaux-de-Cernay sont une abbaye au fond d'un vallon, avec une église, un cloître, des bâtiments, des étangs, des bois. Elle a été ruinée, puis sauvée. Et il y a une salle où l'on n'entre pas.
+
+[CORPS]
+L'abbaye est fondée au douzième siècle, par des cisterciens, dans un vallon isolé.
+
+Elle est riche, puis pillée à la Révolution, et ses pierres servent aux fermes.
+
+Elle est rachetée, restaurée, transformée en hôtel et en lieu de réception, avec un parc.
+
+[HOOK DE FIN]
+Les guides racontent les moines, la Révolution, les propriétaires. Puis ils s'arrêtent devant une porte, dans le cloître, fermée à clé. Un jour, un visiteur a demandé ce qu'elle contenait. Le guide a répondu : « Un escalier. » Il a baissé la voix. « Il descend vers les étangs. » Le visiteur a demandé s'il était utilisé. Le guide a secoué la tête. « On l'a fermé au dix-neuvième. » Le visiteur a demandé pourquoi. Le guide a haussé les épaules. « Parce que, quand on descendait, on entendait des chants. » Il a souri. « Et l'abbaye n'avait plus de moines depuis cinquante ans. » Puis il a ajouté : « Un propriétaire a voulu vérifier. Il est descendu. Il est remonté tout de suite. Il n'a jamais dit ce qu'il avait vu. »
