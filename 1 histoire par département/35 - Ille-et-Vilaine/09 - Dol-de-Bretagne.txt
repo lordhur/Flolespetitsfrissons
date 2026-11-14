@@ -1,0 +1,16 @@
+TITRE : Dol-de-Bretagne
+NATURE : légende locale — cathédrale et marais
+REPÉRES : Dol-de-Bretagne, Ille-et-Vilaine.
+
+[HOOK D'ENTRÉE]
+Dol est une petite ville au milieu des marais, avec une cathédrale immense pour sa taille, des maisons anciennes, une rue de granit. Et sous la ville, il y a des caves qui descendent loin.
+
+[CORPS]
+La ville est un ancien évêché, puissant, riche, avec une cathédrale gothique, un palais, des remparts.
+
+Autour, les marais, gagnés sur la mer, avec des digues, des canaux, des polders.
+
+La ville décline, se dépeuple, puis se restaure. Les maisons sont rachetées, les caves aménagées.
+
+[HOOK DE FIN]
+Les habitants racontent que, dans une maison de la Grand-Rue, il y a une cave avec un pilier central. Et que, sous ce pilier, il y a un autre pilier. Puis un autre. Un escalier descend, en spirale, sous la ville. Le propriétaire a fait descendre une caméra, avec un câble de cinquante mètres. Elle n'a jamais touché le fond. Il a rebouché l'ouverture. Mais il a laissé une trappe, dans le sol, et il ne l'ouvre plus. « On ne sait pas ce qu'il y a en bas. Et je préfère ne pas savoir. »
