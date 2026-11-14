@@ -1,0 +1,16 @@
+TITRE : Saint-Léonard-des-Bois
+NATURE : légende locale — village des Alpes mancelles
+REPÉRES : Saint-Léonard-des-Bois, Sarthe.
+
+[HOOK D'ENTRÉE]
+Saint-Léonard-des-Bois est un village au bord de la Sarthe, au pied de collines boisées, avec une église, un prieuré, un pont, des maisons de pierre. Il garde un passage ancien. Et il y a une chapelle où l'on n'entre pas.
+
+[CORPS]
+Le village se développe au Moyen Âge, autour d'un prieuré, sur la route des pèlerins.
+
+Il vit de la rivière, des moulins, du passage, des foires.
+
+Il est restauré, fleuri, et les collines, les chaos de grès, les points de vue, attirent des promeneurs.
+
+[HOOK DE FIN]
+Les habitants racontent que, sur la colline, il y a une petite chapelle en ruine, sans porte. On y entre par une brèche. Un jour, un promeneur y est entré. Il a trouvé un banc de pierre, un sol de terre, et, dans un angle, des coquilles de noix, fraîches. Il a demandé à un ancien. L'ancien a hoché la tête. « C'est le pèlerin. » Il a haussé les épaules. « Il vient, il s'assied, il casse des noix. » Le promeneur a demandé qui c'était. L'ancien a souri. « On ne sait pas. Il ne se montre pas. » Il a baissé la voix. « Mais il laisse toujours les coquilles au même endroit. Et il n'y a pas de noyer, sur la colline. »
