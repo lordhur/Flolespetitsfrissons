@@ -1,0 +1,16 @@
+TITRE : Le château de Courcelles
+NATURE : légende locale — château et étangs
+REPÉRES : Courcelles-Chaussy, Moselle.
+
+[HOOK D'ENTRÉE]
+Le château de Courcelles est une demeure classique, avec des façades, un parc, des étangs, des arbres. Il a été habité, pillé, restauré. Et il y a un étang où l'on ne se baigne pas.
+
+[CORPS]
+Le château est construit au dix-huitième siècle, sur un site plus ancien, avec un parc dessiné.
+
+Il est habité par des familles de la noblesse, qui chassent, reçoivent, entretiennent.
+
+Il est restauré, ouvert, avec des chambres d'hôtes, des réceptions.
+
+[HOOK DE FIN]
+Les gardiens racontent que, dans le parc, il y a un étang où l'eau reste noire, même en plein soleil. On n'y pêche pas, on ne s'y baigne pas. Un jour, un visiteur a demandé pourquoi. Un jardinier a répondu : « Parce qu'on n'y voit rien. » Le visiteur a insisté. Le jardinier a ajouté : « Et parce que, quand on s'approche, il y a un bruit. Comme si quelque chose nageait. » Il a haussé les épaules. « On a cherché. Il n'y a rien. Mais on ne s'approche plus. »
