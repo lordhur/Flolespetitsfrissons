@@ -1,0 +1,16 @@
+TITRE : La Vieille Bourse de Lille
+NATURE : rumeur locale — cour intérieure
+REPÈRES : Lille, Nord.
+
+[HOOK D'ENTRÉE]
+La Vieille Bourse de Lille est un bâtiment du dix-septième siècle, avec une cour intérieure, des galeries, des cariatides, des livres. Elle a été construite pour les marchands. Et il y a une statue qui ne regarde pas dans la même direction que les autres.
+
+[CORPS]
+La bourse est élevée au siècle d'or de la ville, quand Lille commerce avec l'Espagne, les Pays-Bas, l'Italie.
+
+Les négociants s'y retrouvent, sous les arcades, autour des changes, des nouvelles, des cargaisons.
+
+Le bâtiment est restauré, occupé par des libraires, des bouquinistes. La cour accueille des lecteurs, des joueurs d'échecs.
+
+[HOOK DE FIN]
+Les bouquinistes racontent que, dans la cour, il y a une cariatide dont le visage est tourné vers le sol. Les autres regardent droit devant. Un jour, un visiteur a demandé pourquoi. Un libraire a répondu : « Elle regarde la pierre. » Le visiteur a insisté. Le libraire a ajouté : « On dit qu'elle compte. » Il a haussé les épaules. « Quand elle aura fini de compter, il y aura un marché, ici. » Il a souri. Puis il a dit, plus sérieux : « Mon patron ne veut pas qu'on la restaure. Il dit qu'elle a encore du travail. »

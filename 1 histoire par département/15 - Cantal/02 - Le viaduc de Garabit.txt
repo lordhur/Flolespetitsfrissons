@@ -1,0 +1,16 @@
+TITRE : Le viaduc de Garabit
+NATURE : fait réel — ouvrage d'Eiffel, 1888
+REPÈRES : viaduc de Garabit, Cantal.
+
+[HOOK D'ENTRÉE]
+Le viaduc de Garabit franchit la Truyère à cent vingt-deux mètres au-dessus de l'eau. Il a été construit par Gustave Eiffel. Et il y a une chose que les ouvriers n'ont jamais expliquée.
+
+[CORPS]
+Le viaduc est bâti entre 1880 et 1884, en fer, avec des arches, des pîles, des câbles. Il est immense, léger, presque transparent. Les trains y passent, au-dessus du vide.
+
+La construction est dangereuse. Des hommes travaillent suspendus à des centaines de mètres, dans le vent, sans les sécurités d'aujourd'hui. Des accidents ont lieu. Des ouvriers tombent.
+
+Le viaduc est aujourd'hui un monument, photographié depuis les belvédères, traversé par des trains de marchandises.
+
+[HOOK DE FIN]
+Les soirs de vent, quand la structure vibre, on entend un bourdonnement. Les ingénieurs parlent de résonance. Les habitants, eux, disent que c'est autre chose : un bruit qui ne vient pas du métal, mais d'en dessous. Et les anciens racontent que, certaines nuits, on voit des lanternes allumées sur les pîles. Il n'y a plus de gardiens depuis un siècle.
