@@ -1,0 +1,16 @@
+TITRE : Le stade de France
+NATURE : fait réel — stade et quartier
+REPÉRES : Saint-Denis, Seine-Saint-Denis.
+
+[HOOK D'ENTRÉE]
+Le stade de France est un bâtiment en anneau, avec une toiture, des tribunes, une pelouse, des portes. Il accueille des matchs et des concerts. Et il y a une porte que l'on n'ouvre pas.
+
+[CORPS]
+Le stade est construit à la fin du vingtième siècle, pour un championnat du monde.
+
+Il est bâti sur un ancien terrain industriel, et le quartier est réaménagé autour.
+
+Il accueille des rencontres, des spectacles, des visiteurs, et se visite en dehors des événements.
+
+[HOOK DE FIN]
+Les gardiens racontent le chantier, les matchs, les concerts. Puis ils montrent une porte, dans un couloir, qu'on ne franchit jamais. Un jour, un visiteur a demandé ce qu'il y avait derrière. Le gardien a répondu : « Un escalier. » Il a baissé la voix. « Il descend sous la pelouse. » Le visiteur a demandé où il menait. Le gardien a haussé les épaules. « À un local technique. » Il a montré la porte. « On l'a ouvert, une fois, en 1998. » Le visiteur a demandé ce qu'on avait trouvé. Le gardien a souri. « De l'eau. » Il a baissé la voix. « Beaucoup d'eau. Et des pieux. » Puis il a ajouté : « Des pieux de bois. D'un ancien pont. »
