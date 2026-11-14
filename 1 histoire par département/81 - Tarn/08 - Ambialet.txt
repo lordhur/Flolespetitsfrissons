@@ -1,6 +1,6 @@
 TITRE : Ambialet
 NATURE : fait réel — presqu'île du Tarn
-REPÉRES : Ambialet, Tarn.
+REPÈRES : Ambialet, Tarn.
 
 [HOOK D'ENTRÉE]
 Ambialet est un village sur un éperon, presque entouré par le Tarn, avec un prieuré, une église, des maisons, un barrage. La route passe par un col étroit. Et il y a une chapelle où l'on monte à pied.

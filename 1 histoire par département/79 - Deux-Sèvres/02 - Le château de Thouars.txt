@@ -1,6 +1,6 @@
 TITRE : Le château de Thouars
 NATURE : fait réel — ruines et ville
-REPÉRES : Thouars, Deux-Sèvres.
+REPÈRES : Thouars, Deux-Sèvres.
 
 [HOOK D'ENTRÉE]
 Thouars est une ville sur un promontoire, au-dessus du Thouet, avec des remparts, une église, des ruelles, et les restes d'un château. Il en reste des murs et un pont. Et il y a une tour où l'on n'entre pas.

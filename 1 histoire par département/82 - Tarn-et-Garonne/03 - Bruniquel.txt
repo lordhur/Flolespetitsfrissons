@@ -1,6 +1,6 @@
 TITRE : Bruniquel
 NATURE : légende locale — village et châteaux
-REPÉRES : Bruniquel, Tarn-et-Garonne.
+REPÈRES : Bruniquel, Tarn-et-Garonne.
 
 [HOOK D'ENTRÉE]
 Bruniquel est un village de pierre, accroché à une falaise, au-dessus d'une rivière, avec deux châteaux, des ruelles, une église, des maisons. Il a été une place forte. Et il y a une tour où l'on n'entre pas.

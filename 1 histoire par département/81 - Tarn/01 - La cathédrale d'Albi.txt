@@ -1,6 +1,6 @@
 TITRE : La cathédrale d'Albi
 NATURE : fait réel — cathédrale fortifiée
-REPÉRES : Albi, Tarn.
+REPÈRES : Albi, Tarn.
 
 [HOOK D'ENTRÉE]
 La cathédrale d'Albi est un bloc de brique, avec des tours, un clocher, une nef peinte, un jubé, une ville autour. Elle a été bâtie après une croisade. Et il y a une chapelle où l'on n'entre pas.

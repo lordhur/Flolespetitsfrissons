@@ -1,6 +1,6 @@
 TITRE : La commanderie de Saint-Marc-la-Lande
 NATURE : fait réel — commanderie templière
-REPÉRES : Saint-Marc-la-Lande, Deux-Sèvres.
+REPÈRES : Saint-Marc-la-Lande, Deux-Sèvres.
 
 [HOOK D'ENTRÉE]
 Saint-Marc-la-Lande est un petit bourg, avec une commanderie, une chapelle, des bâtiments, un jardin, au milieu des champs. Elle a appartenu à des ordres militaires. Et il y a une cave où l'on n'entre pas.

@@ -1,6 +1,6 @@
 TITRE : Le pont-canal de Montech
 NATURE : fait réel — canal et ouvrage d'art
-REPÉRES : Montech, Tarn-et-Garonne.
+REPÈRES : Montech, Tarn-et-Garonne.
 
 [HOOK D'ENTRÉE]
 Le pont-canal de Montech porte un canal au-dessus d'une rivière, avec des arches, un tablier, des eaux calmes. Il relie deux bassins. Et il y a une écluse où l'eau ne se vide pas comme ailleurs.

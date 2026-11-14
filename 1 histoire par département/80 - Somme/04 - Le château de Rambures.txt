@@ -1,6 +1,6 @@
 TITRE : Le château de Rambures
 NATURE : fait réel — château fort
-REPÉRES : Rambures, Somme.
+REPÈRES : Rambures, Somme.
 
 [HOOK D'ENTRÉE]
 Rambures est un château de brique rose, avec des tours, des mâchicoulis, des douves, une cour, un parc. Il a été bâti pour l'artillerie. Et il y a une tour où l'on n'entre pas.

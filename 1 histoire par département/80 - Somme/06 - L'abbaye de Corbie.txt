@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Corbie
 NATURE : fait réel — abbaye bénédictine
-REPÉRES : Corbie, Somme.
+REPÈRES : Corbie, Somme.
 
 [HOOK D'ENTRÉE]
 Corbie est une petite ville au bord de la Somme, avec une abbaye disparue, une église, des maisons anciennes, des jardins. Elle a été un grand centre de copie. Et il y a une crypte où l'on n'entre pas.

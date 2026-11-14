@@ -1,6 +1,6 @@
 TITRE : Le donjon de Niort
 NATURE : fait réel — donjon et musée
-REPÉRES : Niort, Deux-Sèvres.
+REPÈRES : Niort, Deux-Sèvres.
 
 [HOOK D'ENTRÉE]
 Le donjon de Niort est un ensemble de tours, de murs, de salles, posé au bord de la Sèvre, au milieu de la ville. Il a servi de forteresse et de prison. Et il y a une salle où les graffitis sont plus récents que les murs.

@@ -1,6 +1,6 @@
 TITRE : La baie de Somme
 NATURE : fait réel — baie et marées
-REPÉRES : Le Crotoy, Somme.
+REPÈRES : Le Crotoy, Somme.
 
 [HOOK D'ENTRÉE]
 La baie de Somme est un espace de sable, de vasières, de dunes, de chenaux, où la mer monte vite. Des phoques y vivent. Et il y a un endroit où le sable ne se referme pas.

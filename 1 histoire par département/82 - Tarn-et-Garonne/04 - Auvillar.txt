@@ -1,6 +1,6 @@
 TITRE : Auvillar
 NATURE : fait réel — village de la Garonne
-REPÉRES : Auvillar, Tarn-et-Garonne.
+REPÈRES : Auvillar, Tarn-et-Garonne.
 
 [HOOK D'ENTRÉE]
 Auvillar est un village sur une terrasse, au-dessus de la Garonne, avec une place ronde, une halle, une église, des maisons de brique. Il vivait du port. Et il y a une maison où la porte ne s'ouvre pas du même côté.

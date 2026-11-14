@@ -1,6 +1,6 @@
 TITRE : Montauban
 NATURE : fait réel — ville de brique
-REPÉRES : Montauban, Tarn-et-Garonne.
+REPÈRES : Montauban, Tarn-et-Garonne.
 
 [HOOK D'ENTRÉE]
 Montauban est une ville rose, bâtie en brique, au bord du Tarn, avec une place, une cathédrale, un pont, des arcades. Elle a été fondée par un traité. Et il y a une place où l'on n'entend pas les pas.

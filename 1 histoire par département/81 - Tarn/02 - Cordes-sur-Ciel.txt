@@ -1,6 +1,6 @@
 TITRE : Cordes-sur-Ciel
 NATURE : fait réel — bastide médiévale
-REPÉRES : Cordes-sur-Ciel, Tarn.
+REPÈRES : Cordes-sur-Ciel, Tarn.
 
 [HOOK D'ENTRÉE]
 Cordes est une bastide posée sur une butte, avec des maisons gothiques, des ruelles, une halle, des portes, des ateliers. Elle émerge des brumes. Et il y a un puits où l'on n'entend pas de fond.

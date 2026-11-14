@@ -1,6 +1,6 @@
 TITRE : Les mines de Melle
 NATURE : fait réel — mines d'argent
-REPÉRES : Melle, Deux-Sèvres.
+REPÈRES : Melle, Deux-Sèvres.
 
 [HOOK D'ENTRÉE]
 Sous Melle, il y a des galeries. Des puits, des salles, des escaliers taillés dans le calcaire, où l'on a cherché de l'argent. On y descend avec un casque. Et il y a une galerie que l'on ne visite pas.

@@ -1,6 +1,6 @@
 TITRE : Le Sidobre
 NATURE : légende locale — chaos de granit
-REPÉRES : Le Sidobre, Tarn.
+REPÈRES : Le Sidobre, Tarn.
 
 [HOOK D'ENTRÉE]
 Le Sidobre est un pays de granit, avec des blocs arrondis, des rivières, des fougères, des chaos, une pierre célèbre en équilibre. On y marche par des sentiers. Et il y a un rocher qui change de place.
@@ -12,5 +12,5 @@ Des carriers y ont travaillé, et des légendes s'y sont attachées.
 
 Le site est parcouru, protégé, et les rochers remarquables portent des noms.
 
-[HOOK D'FIN]
+[HOOK DE FIN]
 Les habitants racontent qu'un rocher, près d'un ruisseau, n'est jamais au même endroit. Un géologue est venu, avec des repères. Il l'a mesuré, photographié, marqué. Un mois plus tard, il avait bougé de deux mètres. Le géologue a vérifié le sol : aucune trace de déplacement. Il a demandé à un ancien. L'ancien a hoché la tête. « Il cherche sa place. » Il a haussé les épaules. « Il y a longtemps, il était en haut. » Le géologue a demandé ce qui l'avait fait descendre. L'ancien a souri. « Personne. Il est descendu tout seul. » Puis il a ajouté : « Et il continue. Lentement. Un jour, il sera au bord de l'eau. »

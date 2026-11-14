@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Moissac
 NATURE : fait réel — abbaye et cloître
-REPÉRES : Moissac, Tarn-et-Garonne.
+REPÈRES : Moissac, Tarn-et-Garonne.
 
 [HOOK D'ENTRÉE]
 Moissac est une petite ville au bord du Tarn, avec une abbaye, un cloître, un tympan sculpté, un clocher. Elle était une étape de Compostelle. Et il y a une salle où l'on n'entre pas.

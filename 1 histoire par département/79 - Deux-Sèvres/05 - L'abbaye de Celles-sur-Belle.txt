@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Celles-sur-Belle
 NATURE : fait réel — abbaye augustinienne
-REPÉRES : Celles-sur-Belle, Deux-Sèvres.
+REPÈRES : Celles-sur-Belle, Deux-Sèvres.
 
 [HOOK D'ENTRÉE]
 Celles-sur-Belle est un village avec une abbaye, une église, un cloître, des bâtiments, une place, des halles. Elle a été fondée par des chanoines. Et il y a une salle où le son reste.
@@ -12,5 +12,5 @@ Elle est riche, puis abîmée par les guerres, reconstruite, et vendue à la Ré
 
 Elle est restaurée, classée, ouverte, et accueille des expositions, des concerts, un festival.
 
-[HOOK D'FIN]
+[HOOK DE FIN]
 Les guides racontent les chanoines, les guerres, la restauration. Puis ils font entrer les visiteurs dans la salle capitulaire. On y parle à voix basse. Un jour, un visiteur a chuchoté, et le guide lui a répondu d'un signe. Le visiteur a demandé pourquoi. Le guide a montré la voûte. « Parce qu'on vous entend. » Il a désigné le mur. « Et de l'autre côté, il y a un escalier. » Le visiteur a demandé où il menait. Le guide a haussé les épaules. « Au dortoir. » Il a baissé la voix. « Les chanoines y montaient pour écouter. » Il a souri. « Pour savoir qui parlait mal de l'abbé. » Puis il a ajouté : « Ça marchait. Mais ils entendaient aussi autre chose. »

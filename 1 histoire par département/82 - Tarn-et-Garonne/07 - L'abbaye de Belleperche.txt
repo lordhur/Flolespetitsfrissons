@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Belleperche
 NATURE : fait réel — abbaye cistercienne
-REPÉRES : Cordes-Tolosannes, Tarn-et-Garonne.
+REPÈRES : Cordes-Tolosannes, Tarn-et-Garonne.
 
 [HOOK D'ENTRÉE]
 Belleperche est une abbaye au bord de la Garonne, avec des bâtiments, une église, des jardins, une collection de faïences. Elle a été fondée par des cisterciens. Et il y a une salle où l'on n'entre pas.

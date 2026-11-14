@@ -1,6 +1,6 @@
 TITRE : Caylus
 NATURE : légende locale — village et château
-REPÉRES : Caylus, Tarn-et-Garonne.
+REPÈRES : Caylus, Tarn-et-Garonne.
 
 [HOOK D'ENTRÉE]
 Caylus est un village de pierre, au bord d'une vallée, avec une halle, une église, des ruelles, et un château en ruine au-dessus. Il a été fortifié. Et il y a un escalier où l'on ne monte pas.

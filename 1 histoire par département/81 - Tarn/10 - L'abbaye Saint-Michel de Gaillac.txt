@@ -1,6 +1,6 @@
 TITRE : L'abbaye Saint-Michel de Gaillac
 NATURE : fait réel — abbaye et vignoble
-REPÉRES : Gaillac, Tarn.
+REPÈRES : Gaillac, Tarn.
 
 [HOOK D'ENTRÉE]
 Gaillac est une petite ville au bord du Tarn, avec une abbaye, une église, des maisons de brique, des caves, un vignoble. Elle a inventé un vin. Et il y a une cave où l'on n'entre pas.

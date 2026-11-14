@@ -1,6 +1,6 @@
 TITRE : L'église de Saint-Riquier
 NATURE : fait réel — abbatiale
-REPÉRES : Saint-Riquier, Somme.
+REPÈRES : Saint-Riquier, Somme.
 
 [HOOK D'ENTRÉE]
 Saint-Riquier est un village avec une abbatiale, une tour, une façade, des maisons, un parc. Elle a été un grand centre de pèlerinage. Et il y a une salle où le son reste.

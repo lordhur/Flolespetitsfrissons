@@ -1,6 +1,6 @@
 TITRE : Montfort-l'Amaury
 NATURE : légende locale — village et ruines
-REPÉRES : Montfort-l'Amaury, Yvelines.
+REPÈRES : Montfort-l'Amaury, Yvelines.
 
 [HOOK D'ENTRÉE]
 Montfort-l'Amaury est un village sur une butte, avec les ruines d'un château, une église, des maisons anciennes, des rues en pente. Il a donné son nom à une famille. Et il y a un escalier où l'on n'entend pas ses pas.

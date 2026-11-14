@@ -1,6 +1,6 @@
 TITRE : Le château de Breteuil
 NATURE : légende locale — château et contes
-REPÉRES : Choisel, Yvelines.
+REPÈRES : Choisel, Yvelines.
 
 [HOOK D'ENTRÉE]
 Breteuil est un château de brique rose, avec des tours, une cour, des jardins, un parc, des contes dans les dépendances. Il est habité par la même famille. Et il y a une chambre où l'on n'entre pas.

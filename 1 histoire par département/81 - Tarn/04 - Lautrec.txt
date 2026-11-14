@@ -1,6 +1,6 @@
 TITRE : Lautrec
 NATURE : légende locale — village fortifié
-REPÉRES : Lautrec, Tarn.
+REPÈRES : Lautrec, Tarn.
 
 [HOOK D'ENTRÉE]
 Lautrec est un village sur une butte, avec un moulin, des remparts, une église, des maisons anciennes, des champs de pastel. Il a été une place forte. Et il y a une porte où l'on ne passe pas.

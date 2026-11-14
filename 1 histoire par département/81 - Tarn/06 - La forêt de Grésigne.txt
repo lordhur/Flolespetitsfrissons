@@ -1,6 +1,6 @@
 TITRE : La forêt de Grésigne
 NATURE : légende locale — forêt domaniale
-REPÉRES : forêt de Grésigne, Tarn.
+REPÈRES : forêt de Grésigne, Tarn.
 
 [HOOK D'ENTRÉE]
 La forêt de Grésigne est un massif de chênes, avec des vallons, des ruisseaux, des hameaux, des chemins. Elle est l'une des plus vastes chênaies d'Europe. Et il y a une source où l'on n'entend rien.

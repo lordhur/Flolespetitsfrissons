@@ -1,6 +1,6 @@
 TITRE : La cathédrale d'Amiens
 NATURE : fait réel — cathédrale gothique
-REPÉRES : Amiens, Somme.
+REPÈRES : Amiens, Somme.
 
 [HOOK D'ENTRÉE]
 La cathédrale d'Amiens est un vaisseau immense, avec une façade, deux tours, une nef haute, un labyrinthe, un trésor. Elle a été bâtie en un siècle. Et il y a une dalle où l'on ne marche pas.

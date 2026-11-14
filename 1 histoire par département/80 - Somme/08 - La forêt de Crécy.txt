@@ -1,6 +1,6 @@
 TITRE : La forêt de Crécy
 NATURE : légende locale — forêt domaniale
-REPÉRES : Crécy-en-Ponthieu, Somme.
+REPÈRES : Crécy-en-Ponthieu, Somme.
 
 [HOOK D'ENTRÉE]
 La forêt de Crécy est un massif de hêtres et de chênes, avec des allées, des mares, des bornes, un village au milieu. Elle a vu passer une bataille. Et il y a un carrefour où les chiens s'arrêtent.

@@ -1,6 +1,6 @@
 TITRE : L'abbaye des Vaux-de-Cernay
 NATURE : fait réel — abbaye cistercienne
-REPÉRES : Cernay-la-Ville, Yvelines.
+REPÈRES : Cernay-la-Ville, Yvelines.
 
 [HOOK D'ENTRÉE]
 Les Vaux-de-Cernay sont une abbaye au fond d'un vallon, avec une église, un cloître, des bâtiments, des étangs, des bois. Elle a été ruinée, puis sauvée. Et il y a une salle où l'on n'entre pas.
