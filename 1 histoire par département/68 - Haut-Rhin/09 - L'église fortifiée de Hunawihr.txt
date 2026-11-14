@@ -1,6 +1,6 @@
 TITRE : L'église fortifiée de Hunawihr
 NATURE : fait réel — église fortifiée
-REPÉRES : Hunawihr, Haut-Rhin.
+REPÈRES : Hunawihr, Haut-Rhin.
 
 [HOOK D'ENTRÉE]
 Hunawihr est un village de vignerons, avec une église fortifiée, entourée d'un mur, d'un cimetière, de vignes. Elle a servi de refuge. Et il y a une cloche que l'on ne sonne plus.

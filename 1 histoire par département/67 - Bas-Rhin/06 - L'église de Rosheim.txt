@@ -1,6 +1,6 @@
 TITRE : L'église de Rosheim
 NATURE : fait réel — église romane
-REPÉRES : Rosheim, Bas-Rhin.
+REPÈRES : Rosheim, Bas-Rhin.
 
 [HOOK D'ENTRÉE]
 Rosheim est une petite ville viticole, avec des remparts, des maisons anciennes, une église romane plantée au milieu, massive, avec un clocher et des sculptures. Elle a été bâtie par les moines. Et il y a un portail dont les figures ne regardent pas dans la même direction.

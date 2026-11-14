@@ -1,6 +1,6 @@
 TITRE : Kaysersberg
 NATURE : légende locale — ville viticole
-REPÉRES : Kaysersberg, Haut-Rhin.
+REPÈRES : Kaysersberg, Haut-Rhin.
 
 [HOOK D'ENTRÉE]
 Kaysersberg est une petite ville au fond d'une vallée vosgienne, avec un château en ruine, une église, un pont fortifié, des maisons à colombages, des vignes. Elle a donné un prix de la paix. Et il y a un pont où l'on n'entend pas ses pas.

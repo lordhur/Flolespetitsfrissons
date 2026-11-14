@@ -1,6 +1,6 @@
 TITRE : La forêt de Haguenau
 NATURE : légende locale — forêt domaniale
-REPÉRES : Haguenau, Bas-Rhin.
+REPÈRES : Haguenau, Bas-Rhin.
 
 [HOOK D'ENTRÉE]
 La forêt de Haguenau est un massif de chênes et de pins, avec des étangs, des allées, des maisons forestières, des bornes. Les empereurs y ont chassé. Et il y a un carrefour où les chevreuils ne traversent pas.

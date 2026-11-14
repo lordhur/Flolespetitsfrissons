@@ -1,6 +1,6 @@
 TITRE : Riquewihr
 NATURE : légende locale — cité médiévale
-REPÉRES : Riquewihr, Haut-Rhin.
+REPÈRES : Riquewihr, Haut-Rhin.
 
 [HOOK D'ENTRÉE]
 Riquewihr est une petite ville close de remparts, avec une rue unique, des maisons à colombages, des cours, des caves, un donjon. Elle est restée intacte. Et il y a une maison où la porte ne s'ouvre pas du même côté.

@@ -1,6 +1,6 @@
 TITRE : Le village d'Eguisheim
 NATURE : légende locale — village circulaire
-REPÉRES : Eguisheim, Haut-Rhin.
+REPÈRES : Eguisheim, Haut-Rhin.
 
 [HOOK D'ENTRÉE]
 Eguisheim est un village de vignerons, bâti en cercles concentriques autour de son château, avec des ruelles, des maisons à colombages, des fontaines, des cigognes. Il est classé parmi les plus beaux de France. Et il y a une fontaine où l'eau ne sert à personne.

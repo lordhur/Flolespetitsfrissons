@@ -1,6 +1,6 @@
 TITRE : La cathédrale de Strasbourg
 NATURE : fait réel — cathédrale et horloge
-REPÉRES : Strasbourg, Bas-Rhin.
+REPÈRES : Strasbourg, Bas-Rhin.
 
 [HOOK D'ENTRÉE]
 La cathédrale de Strasbourg est un vaisseau de grès rose, avec une flèche unique, des vitraux, un pilier des anges, une horloge astronomique. Elle a été le plus haut bâtiment du monde. Et il y a un personnage, dans l'horloge, que l'on n'attend jamais.

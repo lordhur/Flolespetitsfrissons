@@ -1,6 +1,6 @@
 TITRE : Neuf-Brisach
 NATURE : fait réel — ville fortifiée de Vauban
-REPÉRES : Neuf-Brisach, Haut-Rhin.
+REPÈRES : Neuf-Brisach, Haut-Rhin.
 
 [HOOK D'ENTRÉE]
 Neuf-Brisach est une ville en octogone, dessinée par Vauban, avec des remparts en étoile, des rues qui se coupent à angle droit, une place centrale, une église. On la voit d'avion comme un plan. Et il y a un bastion où l'on ne va pas.

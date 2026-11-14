@@ -1,6 +1,6 @@
 TITRE : La Rhune
 NATURE : légende locale — montagne basque
-REPÉRES : Ascain, Pyrénées-Atlantiques.
+REPÈRES : Ascain, Pyrénées-Atlantiques.
 
 [HOOK D'ENTRÉE]
 La Rhune est une montagne ronde, couverte de fougères et de pierres, avec un petit train, des pottoks, des cromlechs. Elle domine la mer et la plaine. Et il y a un endroit où les bergers ne dorment pas.

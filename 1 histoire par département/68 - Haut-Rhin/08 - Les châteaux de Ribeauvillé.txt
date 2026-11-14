@@ -1,6 +1,6 @@
 TITRE : Les châteaux de Ribeauvillé
 NATURE : légende locale — trois ruines
-REPÉRES : Ribeauvillé, Haut-Rhin.
+REPÈRES : Ribeauvillé, Haut-Rhin.
 
 [HOOK D'ENTRÉE]
 Au-dessus de Ribeauvillé, trois châteaux en ruine s'étagent sur la colline : Saint-Ulrich, Girsberg et Haut-Ribeaupierre. Ils se regardent. Et il y a une tour d'où l'on voit les trois à la fois.

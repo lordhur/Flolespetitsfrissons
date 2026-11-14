@@ -1,6 +1,6 @@
 TITRE : La Petite France
 NATURE : rumeur locale — quartier des tanneurs
-REPÉRES : Strasbourg, Bas-Rhin.
+REPÈRES : Strasbourg, Bas-Rhin.
 
 [HOOK D'ENTRÉE]
 La Petite France est un quartier de canaux, de ponts, de maisons à colombages, de toits pentus, au bord de l'Ill. Les tanneurs y travaillaient. Et il y a une maison où les volets s'ouvrent la nuit.

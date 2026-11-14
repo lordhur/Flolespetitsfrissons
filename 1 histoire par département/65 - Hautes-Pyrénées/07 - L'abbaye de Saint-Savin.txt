@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Saint-Savin
 NATURE : fait réel — abbaye du Lavedan
-REPÉRES : Saint-Savin, Hautes-Pyrénées.
+REPÈRES : Saint-Savin, Hautes-Pyrénées.
 
 [HOOK D'ENTRÉE]
 Saint-Savin est une abbaye au fond d'une vallée, avec une église fortifiée, un clocher, des fresques, un cimetière, des montagnes autour. Elle garde des peintures du Moyen Âge. Et il y a une tour où l'on ne monte pas.
