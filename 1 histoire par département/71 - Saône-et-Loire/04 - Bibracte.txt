@@ -1,6 +1,6 @@
 TITRE : Bibracte
 NATURE : fait réel — oppidum gaulois
-REPÉRES : Mont Beuvray, Saône-et-Loire.
+REPÈRES : Mont Beuvray, Saône-et-Loire.
 
 [HOOK D'ENTRÉE]
 Bibracte est une ville gauloise, au sommet d'une montagne, cachée sous la forêt, avec des remparts, des maisons, des ateliers. Elle a été fouillée, relevée, réenterrée. Et il y a un endroit où les fouilles sont arrêtées.

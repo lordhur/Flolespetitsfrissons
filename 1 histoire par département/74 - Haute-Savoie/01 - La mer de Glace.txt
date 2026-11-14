@@ -1,6 +1,6 @@
 TITRE : La mer de Glace
 NATURE : fait réel — glacier du Mont-Blanc
-REPÉRES : Chamonix-Mont-Blanc, Haute-Savoie.
+REPÈRES : Chamonix-Mont-Blanc, Haute-Savoie.
 
 [HOOK D'ENTRÉE]
 La mer de Glace est un glacier qui descend entre deux parois, avec des crevasses, des séracs, des moraines, un train qui y mène. Elle recule. Et il y a une grotte que l'on retaille chaque année.

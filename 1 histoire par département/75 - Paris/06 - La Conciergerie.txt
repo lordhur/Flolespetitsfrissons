@@ -1,6 +1,6 @@
 TITRE : La Conciergerie
 NATURE : fait réel — palais et prison
-REPÉRES : Paris.
+REPÈRES : Paris.
 
 [HOOK D'ENTRÉE]
 La Conciergerie est un bâtiment de pierre, au bord de la Seine, avec des tours, une grande salle, des cachots, une cour. Elle a été palais, puis prison. Et il y a une cellule où l'on n'entre pas.

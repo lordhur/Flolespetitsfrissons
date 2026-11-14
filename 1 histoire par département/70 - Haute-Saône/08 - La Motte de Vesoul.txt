@@ -1,6 +1,6 @@
 TITRE : La Motte de Vesoul
 NATURE : légende locale — colline et chapelle
-REPÉRES : Vesoul, Haute-Saône.
+REPÈRES : Vesoul, Haute-Saône.
 
 [HOOK D'ENTRÉE]
 Vesoul est une ville basse, autour de sa colline, avec une vieille ville, des places, des fontaines. Au sommet, il y a une chapelle, un calvaire, des arbres, une vue. Et il y a un sentier où l'on ne monte pas seul.

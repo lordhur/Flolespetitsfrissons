@@ -1,6 +1,6 @@
 TITRE : Le lac du Bourget
 NATURE : légende locale — lac et dent du Chat
-REPÉRES : Aix-les-Bains, Savoie.
+REPÈRES : Aix-les-Bains, Savoie.
 
 [HOOK D'ENTRÉE]
 Le lac du Bourget est un lac long et profond, entre des montagnes et des coteaux, avec des rives, des ports, un prieuré, une dent de rocher au-dessus. On y navigue, on y pêche, on s'y baigne. Et il y a un endroit où le lac ne fait pas de vagues.

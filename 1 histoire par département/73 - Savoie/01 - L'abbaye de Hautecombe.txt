@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Hautecombe
 NATURE : fait réel — abbaye et nécropole
-REPÉRES : Saint-Pierre-de-Curtille, Savoie.
+REPÈRES : Saint-Pierre-de-Curtille, Savoie.
 
 [HOOK D'ENTRÉE]
 Hautecombe est une abbaye posée au bord du lac du Bourget, avec une façade, un cloître, des tombeaux, des jardins, des vignes. Elle est la nécropole d'une famille royale. Et il y a une chapelle où l'on n'entre pas.

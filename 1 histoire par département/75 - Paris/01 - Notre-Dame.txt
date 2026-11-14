@@ -1,6 +1,6 @@
 TITRE : Notre-Dame
 NATURE : fait réel — cathédrale et crypte
-REPÉRES : Paris.
+REPÈRES : Paris.
 
 [HOOK D'ENTRÉE]
 Notre-Dame occupe l'île de la Cité, avec ses tours, sa façade, ses arcs, sa flèche reconstruite. Elle a été bâtie sur des églises plus anciennes, et sur une ville antique. Et il y a un endroit sous le parvis où l'on ne marche pas.

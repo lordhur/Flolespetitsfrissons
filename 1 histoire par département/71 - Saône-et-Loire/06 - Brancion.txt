@@ -1,6 +1,6 @@
 TITRE : Brancion
 NATURE : légende locale — village fortifié
-REPÉRES : Martailly-lès-Brancion, Saône-et-Loire.
+REPÈRES : Martailly-lès-Brancion, Saône-et-Loire.
 
 [HOOK D'ENTRÉE]
 Brancion est un village en ruine, sur un éperon, avec un château, une église, des halles, des maisons sans toit, des vignes autour. Il domine la vallée. Et il y a une porte qui ne s'ouvre que dans un sens.

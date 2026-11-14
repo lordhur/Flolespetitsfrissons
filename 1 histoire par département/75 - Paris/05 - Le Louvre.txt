@@ -1,6 +1,6 @@
 TITRE : Le Louvre
 NATURE : fait réel — palais et musée
-REPÉRES : Paris.
+REPÈRES : Paris.
 
 [HOOK D'ENTRÉE]
 Le Louvre est un palais devenu musée, avec des cours, des ailes, une pyramide, des collections, un donjon médiéval sous le sol. Il a été forteresse, résidence, entrepôt. Et il y a une salle où les visiteurs ne s'attardent pas.

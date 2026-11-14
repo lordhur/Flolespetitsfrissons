@@ -1,6 +1,6 @@
 TITRE : Yvoire
 NATURE : légende locale — village médiéval
-REPÉRES : Yvoire, Haute-Savoie.
+REPÈRES : Yvoire, Haute-Savoie.
 
 [HOOK D'ENTRÉE]
 Yvoire est un village de pierre, posé sur une presqu'île, au bord du lac, avec un château, des remparts, des ruelles, des fleurs partout. Il est classé parmi les plus beaux de France. Et il y a un jardin où l'on n'entre pas.
