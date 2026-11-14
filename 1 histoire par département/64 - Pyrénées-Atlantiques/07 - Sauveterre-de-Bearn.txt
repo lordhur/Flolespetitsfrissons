@@ -1,0 +1,16 @@
+TITRE : Sauveterre-de-Béarn
+NATURE : légende locale — ville haute
+REPÉRES : Sauveterre-de-Béarn, Pyrénées-Atlantiques.
+
+[HOOK D'ENTRÉE]
+Sauveterre-de-Béarn est une petite ville posée sur un éperon, au-dessus du gave, avec une église, une tour, des remparts, un pont ancien. Elle a été une place forte. Et il y a une légende qui explique pourquoi la rivière est si froide.
+
+[CORPS]
+La ville est fondée au Moyen Âge, sur un site fortifié, pour surveiller le passage du gave.
+
+Elle est assiégée, prise, reconstruite. Le pont, la tour, l'église, gardent la trace des siècles.
+
+Aujourd'hui, on y vient pour les ruelles, le point de vue, les randonnées au bord de l'eau.
+
+[HOOK DE FIN]
+Les habitants racontent l'histoire de la reine qui aurait été jetée du pont, et sauvée par sa robe, qui l'a portée sur l'eau. Puis ils parlent de la température de la rivière. Un pêcheur a mesuré : quatre degrés en été, deux en hiver. Il a demandé à un ancien. L'ancien a hoché la tête. « C'est elle. » Il a montré l'eau. « Elle est restée sous le pont. Elle attend. » Le pêcheur a demandé quoi. L'ancien a haussé les épaules. « Une réponse. On lui a posé une question, ce jour-là. Elle n'a jamais pu répondre. » Il a rejeté sa ligne. « Alors l'eau reste froide. »
