@@ -1,0 +1,16 @@
+TITRE : Saint-Claude
+NATURE : légende locale — ville et abbaye
+REPÉRES : Saint-Claude, Jura.
+
+[HOOK D'ENTRÉE]
+Saint-Claude est une ville serrée dans une vallée étroite, avec une cathédrale, des ponts, des rues en pente. Elle a grandi autour d'une abbaye. Et sous la ville, il y a des caves qui descendent jusqu'à la rivière.
+
+[CORPS]
+La ville est fondée autour d'un monastère, dès le cinquième siècle. Des moines y vivent, puis des chanoines, puis des évêques.
+
+Elle vit du commerce, de l'artisanat, de la pipe, du diamant. Elle est plusieurs fois détruite par des incendies, et reconstruite.
+
+La cathédrale, les maisons anciennes, les ponts, témoignent de cette histoire.
+
+[HOOK DE FIN]
+Les habitants racontent que, dans les caves, il y a des passages qui communiquent. Des escaliers, des galeries, des portes. Certains propriétaires ont muré des ouvertures. Un homme a expliqué qu'il avait retrouvé, dans sa cave, un escalier qui descendait vers la rivière. Il l'a suivi. Il est arrivé dans une salle voûtée, avec des bancs de pierre. Il est remonté. Il a rebouché. Quand on lui a demandé ce qu'il y avait, il a répondu : « Des affaires. Des affaires posées. » Puis il n'a rien ajouté.

@@ -1,0 +1,16 @@
+TITRE : Nozeroy
+NATURE : légende locale — petite cité de caractère
+REPÉRES : Nozeroy, Jura.
+
+[HOOK D'ENTRÉE]
+Nozeroy est un village posé sur un plateau, avec des maisons anciennes, une collégiale, des ruines de château. Il a été une petite capitale, au Moyen Âge. Et il reste des souterrains.
+
+[CORPS]
+Le village est fondé au treizième siècle, par une famille de seigneurs qui y bâtit un château, une église, des remparts.
+
+Il devient une petite cité, avec un marché, des foires, une administration. Les maisons ont des caves, des escaliers, des décors.
+
+Le château est détruit, les remparts démantelés. Les maisons restent.
+
+[HOOK DE FIN]
+Les habitants racontent que, sous le village, il y a un réseau de souterrains, reliant l'église, les maisons, le château. Certains sont connus, d'autres non. Un propriétaire a découvert, en refaisant son sol, un escalier qui descendait. Il a suivi. Il est arrivé dans une galerie, puis devant une porte. Une porte en bois, cloutée, fermée. Il a poussé. Elle n'a pas cédé. Il est remonté, a prévenu la mairie. Maison a été visitée. La galerie existe. La porte, aussi. On n'a jamais essayé de l'ouvrir.
