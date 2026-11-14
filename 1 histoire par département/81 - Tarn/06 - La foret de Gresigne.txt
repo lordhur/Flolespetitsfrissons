@@ -1,0 +1,16 @@
+TITRE : La forêt de Grésigne
+NATURE : légende locale — forêt domaniale
+REPÉRES : forêt de Grésigne, Tarn.
+
+[HOOK D'ENTRÉE]
+La forêt de Grésigne est un massif de chênes, avec des vallons, des ruisseaux, des hameaux, des chemins. Elle est l'une des plus vastes chênaies d'Europe. Et il y a une source où l'on n'entend rien.
+
+[CORPS]
+La forêt est domaniale, exploitée depuis des siècles pour le bois et le charbon.
+
+Des verriers, des charbonniers, des bûcherons y ont travaillé, et leurs cabanes ont laissé des traces.
+
+On y promène, on y cueille, on y chasse. Les arbres les plus vieux sont repérés, protégés.
+
+[HOOK DE FIN]
+Les forestiers racontent les verreries, les charbonniers, les chênes. Puis ils parlent d'une source, sous un rocher, où l'eau coule sans bruit. Un jour, un promeneur s'est approché. Il a tendu l'oreille : rien. Il a mis la main dans l'eau : elle était froide et vive. Il a demandé à un garde. Le garde a hoché la tête. « C'est la source des verriers. » Il a haussé les épaules. « Ils y prenaient l'eau pour le verre. » Le promeneur a demandé pourquoi le silence. Le garde a souri. « Parce qu'ils travaillaient au son. » Il a baissé la voix. « Ici, on n'entend rien. Alors ils entendaient tout. » Puis il a ajouté : « Et le verre, lui, garde les sons. »
