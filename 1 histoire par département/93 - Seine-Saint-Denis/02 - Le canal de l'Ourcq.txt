@@ -1,6 +1,6 @@
 TITRE : Le canal de l'Ourcq
 NATURE : fait réel — canal parisien
-REPÉRES : Pantin, Seine-Saint-Denis.
+REPÈRES : Pantin, Seine-Saint-Denis.
 
 [HOOK D'ENTRÉE]
 Le canal de l'Ourcq traverse la banlieue, avec des berges, des écluses, des entrepôts, des passerelles. Il alimente Paris en eau. Et il y a une écluse où le bassin met trop de temps à se vider.

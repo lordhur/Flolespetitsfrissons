@@ -1,6 +1,6 @@
 TITRE : Le parc de la Courneuve
 NATURE : fait réel — parc départemental
-REPÉRES : La Courneuve, Seine-Saint-Denis.
+REPÈRES : La Courneuve, Seine-Saint-Denis.
 
 [HOOK D'ENTRÉE]
 Le parc de la Courneuve est un espace de pelouses, d'arbres, de plans d'eau, de chemins, au milieu des villes. Il a été aménagé sur des terrains vagues. Et il y a un endroit où les oiseaux ne chantent pas.

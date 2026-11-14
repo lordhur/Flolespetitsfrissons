@@ -1,6 +1,6 @@
 TITRE : Les Saintes
 NATURE : fait réel — archipel
-REPÉRES : Terre-de-Haut, Guadeloupe.
+REPÈRES : Terre-de-Haut, Guadeloupe.
 
 [HOOK D'ENTRÉE]
 Les Saintes sont un archipel, avec des collines, des baies, des forts, des maisons, des bateaux. On y accède par mer. Et il y a une baie où les ancres ne tiennent pas.

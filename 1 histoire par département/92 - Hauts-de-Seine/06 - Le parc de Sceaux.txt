@@ -1,6 +1,6 @@
 TITRE : Le parc de Sceaux
 NATURE : fait réel — parc et château
-REPÉRES : Sceaux, Hauts-de-Seine.
+REPÈRES : Sceaux, Hauts-de-Seine.
 
 [HOOK D'ENTRÉE]
 Le parc de Sceaux est un domaine de pelouses, d'allées, de bassins, d'arbres, avec un château, une orangerie, un pavillon. Il a été dessiné par un jardinier célèbre. Et il y a une allée où le son ne porte pas.

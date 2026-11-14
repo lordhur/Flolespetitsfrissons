@@ -1,6 +1,6 @@
 TITRE : Le Port et la pointe des Galets
 NATURE : rumeur locale — port et récifs
-REPÉRES : Le Port, La Réunion.
+REPÈRES : Le Port, La Réunion.
 
 [HOOK D'ENTRÉE]
 Le Port est une ville portuaire, avec des quais, des grues, des entrepôts, une plage, des récifs. On y débarque des marchandises. Et il y a un endroit où les ancres ne tiennent pas.

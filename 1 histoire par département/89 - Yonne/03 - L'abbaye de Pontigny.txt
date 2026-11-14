@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Pontigny
 NATURE : fait réel — abbaye cistercienne
-REPÉRES : Pontigny, Yonne.
+REPÈRES : Pontigny, Yonne.
 
 [HOOK D'ENTRÉE]
 Pontigny est une abbaye au milieu des champs, avec une église immense, une nef nue, des tombeaux, un cellier. Elle a accueilli des exilés. Et il y a une salle où le son ne s'éteint pas.

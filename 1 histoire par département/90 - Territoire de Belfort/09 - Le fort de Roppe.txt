@@ -1,6 +1,6 @@
 TITRE : Le fort de Roppe
 NATURE : fait réel — fortification
-REPÉRES : Roppe, Territoire de Belfort.
+REPÈRES : Roppe, Territoire de Belfort.
 
 [HOOK D'ENTRÉE]
 Le fort de Roppe est un ouvrage de béton et de terre, avec des galeries, des casemates, des fossés, des arbres. Il défendait la trouée de Belfort. Et il y a une galerie où le son ne meurt pas.

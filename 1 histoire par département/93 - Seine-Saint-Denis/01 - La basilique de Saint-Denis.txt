@@ -1,6 +1,6 @@
 TITRE : La basilique de Saint-Denis
 NATURE : fait réel — basilique et nécropole
-REPÉRES : Saint-Denis, Seine-Saint-Denis.
+REPÈRES : Saint-Denis, Seine-Saint-Denis.
 
 [HOOK D'ENTRÉE]
 La basilique de Saint-Denis est une église gothique, avec une façade, une tour, une nef, des tombeaux, une crypte. Elle abrite les tombes des rois. Et il y a un tombeau que l'on n'ouvre pas.

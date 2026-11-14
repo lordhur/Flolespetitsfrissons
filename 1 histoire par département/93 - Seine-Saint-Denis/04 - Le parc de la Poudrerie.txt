@@ -1,6 +1,6 @@
 TITRE : Le parc de la Poudrerie
 NATURE : fait réel — ancienne poudrerie
-REPÉRES : Sevran, Seine-Saint-Denis.
+REPÈRES : Sevran, Seine-Saint-Denis.
 
 [HOOK D'ENTRÉE]
 Le parc de la Poudrerie est un bois, avec des allées, des canaux, des bâtiments, des prairies, au bord du canal. On y a fabriqué de la poudre. Et il y a un bâtiment où l'on n'entre pas.

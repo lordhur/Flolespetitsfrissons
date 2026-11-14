@@ -1,6 +1,6 @@
 TITRE : Giromagny
 NATURE : légende locale — ville et mines
-REPÉRES : Giromagny, Territoire de Belfort.
+REPÈRES : Giromagny, Territoire de Belfort.
 
 [HOOK D'ENTRÉE]
 Giromagny est une petite ville au pied des Vosges, avec une église, des maisons anciennes, une place, des forêts au-dessus. On y a cherché du cuivre et de l'argent. Et il y a une galerie où l'on n'entre pas.

@@ -1,6 +1,6 @@
 TITRE : Pontoise
 NATURE : fait réel — ville médiévale
-REPÉRES : Pontoise, Val-d'Oise.
+REPÈRES : Pontoise, Val-d'Oise.
 
 [HOOK D'ENTRÉE]
 Pontoise est une ville sur une hauteur, au-dessus de l'Oise, avec une cathédrale, des maisons anciennes, des ruelles, un pont. Elle a été une ville royale. Et il y a un escalier où l'on n'entend pas ses pas.

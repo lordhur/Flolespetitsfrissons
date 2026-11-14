@@ -1,6 +1,6 @@
 TITRE : Le viaduc de Nogent
 NATURE : fait réel — viaduc et Marne
-REPÉRES : Nogent-sur-Marne, Val-de-Marne.
+REPÈRES : Nogent-sur-Marne, Val-de-Marne.
 
 [HOOK D'ENTRÉE]
 Le viaduc de Nogent est un pont de pierre et de métal, avec des arches, des piles, une voie, au-dessus de la Marne et des îles. Il porte des trains. Et il y a une pile où les oiseaux ne nichent pas.

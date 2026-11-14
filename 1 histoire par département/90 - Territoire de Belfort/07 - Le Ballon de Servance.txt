@@ -1,6 +1,6 @@
 TITRE : Le Ballon de Servance
 NATURE : légende locale — sommet et forêt
-REPÉRES : Lepuix, Territoire de Belfort.
+REPÈRES : Lepuix, Territoire de Belfort.
 
 [HOOK D'ENTRÉE]
 Le Ballon de Servance est une croupe d'herbe et de sapins, avec une route, des crêtes, un radar, des bornes. Il domine la vallée. Et il y a un endroit où le vent ne s'arrête pas.

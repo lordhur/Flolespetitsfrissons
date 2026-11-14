@@ -1,6 +1,6 @@
 TITRE : La commune de Roura
 NATURE : rumeur locale — village et forêt
-REPÉRES : Roura, Guyane.
+REPÈRES : Roura, Guyane.
 
 [HOOK D'ENTRÉE]
 Roura est une commune au bord d'une rivière, avec des maisons, une église, des jardins, une forêt autour. On y accède par la route. Et il y a un pont où l'on n'entend pas l'eau.

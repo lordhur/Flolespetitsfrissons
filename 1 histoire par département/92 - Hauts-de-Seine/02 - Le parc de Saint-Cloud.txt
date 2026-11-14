@@ -1,6 +1,6 @@
 TITRE : Le parc de Saint-Cloud
 NATURE : fait réel — parc et domaine
-REPÉRES : Saint-Cloud, Hauts-de-Seine.
+REPÈRES : Saint-Cloud, Hauts-de-Seine.
 
 [HOOK D'ENTRÉE]
 Le parc de Saint-Cloud est un domaine de pelouses, d'arbres, d'allées, de bassins, au-dessus de la Seine. Il a porté un château. Il n'en reste rien. Et il y a une allée où le vent ne s'arrête pas.

@@ -67,9 +67,9 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 
 ## 📊 Avancement
 
-**89 / 101 départements complets** — 890 récits écrits.
+**101 départements — 1010 récits**
 
-| Département | Histoires | État |
+| Département | Récits | Statut |
 |---|---|---|
 | 01 - Ain | 10/10 | ✅ |
 | 02 - Aisne | 10/10 | ✅ |
@@ -160,15 +160,15 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 | 86 - Vienne | 10/10 | ✅ |
 | 87 - Haute-Vienne | 10/10 | ✅ |
 | 88 - Vosges | 10/10 | ✅ |
-| 89 - Yonne | 0/10 | ⬜ |
-| 90 - Territoire de Belfort | 0/10 | ⬜ |
-| 91 - Essonne | 0/10 | ⬜ |
-| 92 - Hauts-de-Seine | 0/10 | ⬜ |
-| 93 - Seine-Saint-Denis | 0/10 | ⬜ |
-| 94 - Val-de-Marne | 0/10 | ⬜ |
-| 95 - Val-d'Oise | 0/10 | ⬜ |
-| 971 - Guadeloupe | 0/10 | ⬜ |
-| 972 - Martinique | 0/10 | ⬜ |
-| 973 - Guyane | 0/10 | ⬜ |
-| 974 - La Réunion | 0/10 | ⬜ |
-| 976 - Mayotte | 0/10 | ⬜ |
+| 89 - Yonne | 10/10 | ✅ |
+| 90 - Territoire de Belfort | 10/10 | ✅ |
+| 91 - Essonne | 10/10 | ✅ |
+| 92 - Hauts-de-Seine | 10/10 | ✅ |
+| 93 - Seine-Saint-Denis | 10/10 | ✅ |
+| 94 - Val-de-Marne | 10/10 | ✅ |
+| 95 - Val-d'Oise | 10/10 | ✅ |
+| 971 - Guadeloupe | 10/10 | ✅ |
+| 972 - Martinique | 10/10 | ✅ |
+| 973 - Guyane | 10/10 | ✅ |
+| 974 - La Réunion | 10/10 | ✅ |
+| 976 - Mayotte | 10/10 | ✅ |

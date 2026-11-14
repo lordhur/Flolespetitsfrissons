@@ -1,6 +1,6 @@
 TITRE : Sainte-Anne et les salines
 NATURE : légende locale — village et plage
-REPÉRES : Sainte-Anne, Martinique.
+REPÈRES : Sainte-Anne, Martinique.
 
 [HOOK D'ENTRÉE]
 Sainte-Anne est un village au bord de la mer, avec une église, un marché, des maisons, et de longues plages. On y vient pour le sable et les cocotiers. Et il y a une saline où l'eau ne s'évapore pas.

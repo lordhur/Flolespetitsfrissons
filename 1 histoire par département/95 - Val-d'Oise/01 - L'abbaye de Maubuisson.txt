@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Maubuisson
 NATURE : fait réel — abbaye cistercienne
-REPÉRES : Saint-Ouen-l'Aumône, Val-d'Oise.
+REPÈRES : Saint-Ouen-l'Aumône, Val-d'Oise.
 
 [HOOK D'ENTRÉE]
 Maubuisson est une abbaye au milieu des champs, avec un cloître, une salle, des jardins, un canal. Elle a été fondée par une reine. Et il y a une salle où l'on n'entre pas.

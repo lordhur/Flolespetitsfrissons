@@ -1,6 +1,6 @@
 TITRE : Le fort de Charenton
 NATURE : fait réel — fortification
-REPÉRES : Maisons-Alfort, Val-de-Marne.
+REPÈRES : Maisons-Alfort, Val-de-Marne.
 
 [HOOK D'ENTRÉE]
 Le fort de Charenton est un ouvrage de pierre et de terre, avec des murs, des casemates, un fossé, des arbres. Il défendait Paris. Et il y a une galerie où le son ne meurt pas.

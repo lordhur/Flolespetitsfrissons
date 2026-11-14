@@ -1,6 +1,6 @@
 TITRE : La citadelle de Belfort
 NATURE : fait réel — fortifications
-REPÉRES : Belfort, Territoire de Belfort.
+REPÈRES : Belfort, Territoire de Belfort.
 
 [HOOK D'ENTRÉE]
 La citadelle de Belfort est un ensemble de murs, de bastions, de bâtiments, posé sur un éperon de grès, au-dessus de la ville. Elle a résisté à des sièges. Et il y a un souterrain qui descend dans la ville.

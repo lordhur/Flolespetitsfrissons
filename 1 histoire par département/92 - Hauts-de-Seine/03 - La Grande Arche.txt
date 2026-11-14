@@ -1,6 +1,6 @@
 TITRE : La Grande Arche
 NATURE : fait réel — arche de la Défense
-REPÉRES : La Défense, Hauts-de-Seine.
+REPÈRES : La Défense, Hauts-de-Seine.
 
 [HOOK D'ENTRÉE]
 La Grande Arche est un cube évidé, posé sur un axe, avec des façades de verre, une terrasse, des ascenseurs. Elle prolonge une perspective. Et il y a un endroit où le vent ne s'engouffre pas.

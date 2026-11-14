@@ -1,6 +1,6 @@
 TITRE : Le village de Cacao
 NATURE : fait réel — village et marché
-REPÉRES : Cacao, Guyane.
+REPÈRES : Cacao, Guyane.
 
 [HOOK D'ENTRÉE]
 Cacao est un village au bord d'une rivière, avec des maisons de bois, un marché, des jardins, des rizières. On y a trouvé refuge. Et il y a une maison où les outils sont restés.

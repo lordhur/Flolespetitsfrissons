@@ -1,6 +1,6 @@
 TITRE : La ville de Delle
 NATURE : légende locale — ville frontière
-REPÉRES : Delle, Territoire de Belfort.
+REPÈRES : Delle, Territoire de Belfort.
 
 [HOOK D'ENTRÉE]
 Delle est une petite ville à la frontière, avec une église, des maisons anciennes, une gare, une rivière. Elle a vécu du passage. Et il y a un pont où l'on n'entend pas l'eau.

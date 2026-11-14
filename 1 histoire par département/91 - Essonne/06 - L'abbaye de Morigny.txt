@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Morigny
 NATURE : fait réel — abbaye bénédictine
-REPÉRES : Morigny-Champigny, Essonne.
+REPÈRES : Morigny-Champigny, Essonne.
 
 [HOOK D'ENTRÉE]
 Morigny est un village avec les restes d'une abbaye, une église, des bâtiments, des jardins, des champs. Elle a été fondée par des bénédictins. Et il y a une salle où l'on n'entre pas.

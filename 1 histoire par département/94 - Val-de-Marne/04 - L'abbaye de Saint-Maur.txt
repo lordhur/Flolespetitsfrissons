@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Saint-Maur
 NATURE : fait réel — abbaye et ville
-REPÉRES : Saint-Maur-des-Fossés, Val-de-Marne.
+REPÈRES : Saint-Maur-des-Fossés, Val-de-Marne.
 
 [HOOK D'ENTRÉE]
 Saint-Maur est une ville au bord de la Marne, avec les restes d'une abbaye, une église, des bâtiments, un parc. Elle a été fondée par des moines. Et il y a une crypte où l'on n'entre pas.

@@ -1,6 +1,6 @@
 TITRE : Le stade de France
 NATURE : fait réel — stade et quartier
-REPÉRES : Saint-Denis, Seine-Saint-Denis.
+REPÈRES : Saint-Denis, Seine-Saint-Denis.
 
 [HOOK D'ENTRÉE]
 Le stade de France est un bâtiment en anneau, avec une toiture, des tribunes, une pelouse, des portes. Il accueille des matchs et des concerts. Et il y a une porte que l'on n'ouvre pas.

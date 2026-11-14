@@ -1,6 +1,6 @@
 TITRE : Le canal Saint-Denis
 NATURE : rumeur locale — canal industriel
-REPÉRES : Aubervilliers, Seine-Saint-Denis.
+REPÈRES : Aubervilliers, Seine-Saint-Denis.
 
 [HOOK D'ENTRÉE]
 Le canal Saint-Denis relie deux canaux, avec des écluses, des berges, des entrepôts, des passerelles. Il traverse des villes industrielles. Et il y a une écluse où l'eau ne se vide pas comme ailleurs.

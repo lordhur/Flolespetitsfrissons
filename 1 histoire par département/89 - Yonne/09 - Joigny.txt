@@ -1,6 +1,6 @@
 TITRE : Joigny
 NATURE : légende locale — ville haute
-REPÉRES : Joigny, Yonne.
+REPÈRES : Joigny, Yonne.
 
 [HOOK D'ENTRÉE]
 Joigny est une ville posée sur une colline, au-dessus de l'Yonne, avec une église, des maisons anciennes, des ruelles, un pont. Elle a été une place forte. Et il y a un escalier où l'on n'entend pas ses pas.

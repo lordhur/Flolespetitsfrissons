@@ -1,6 +1,6 @@
 TITRE : Le village de Coconi
 NATURE : fait réel — village et vanille
-REPÉRES : Coconi, Mayotte.
+REPÈRES : Coconi, Mayotte.
 
 [HOOK D'ENTRÉE]
 Coconi est un village au centre de l'île, avec des cases, une église, des jardins, des plantations. On y cultive la vanille, l'ylang-ylang. Et il y a une case où l'on n'entre pas.
