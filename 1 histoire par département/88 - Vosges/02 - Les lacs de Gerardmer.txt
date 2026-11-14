@@ -1,0 +1,16 @@
+TITRE : Les lacs de Gérardmer
+NATURE : légende locale — lac et vallée
+REPÉRES : Gérardmer, Vosges.
+
+[HOOK D'ENTRÉE]
+Gérardmer est une petite ville au bord d'un lac, entourée de forêts et de montagnes, avec des berges, des plages, des sentiers. Le lac est profond. Et il y a un endroit où l'eau ne se ride pas.
+
+[CORPS]
+Le lac occupe un creux glaciaire, alimenté par des sources et des ruisseaux.
+
+La ville se développe autour, avec des scieries, des tissages, puis du tourisme.
+
+Le lac est aménagé, surveillé, et les forêts, les crêtes, attirent des promeneurs en toute saison.
+
+[HOOK DE FIN]
+Les pêcheurs racontent les profondeurs, les truites, les crues. Puis ils parlent d'une zone, au large, où l'eau reste lisse quand le vent souffle. Un jour, un plongeur y est descendu. Il a trouvé une fosse, plus profonde, et des troncs, debout. Il est remonté. Il a demandé à un ancien. L'ancien a hoché la tête. « C'est la forêt. » Il a haussé les épaules. « Elle est sous l'eau. » Le plongeur a demandé comment. L'ancien a montré la vallée. « Le lac est monté. Il a noyé les arbres. » Il a baissé la voix. « Ils sont encore là. Et ils ne pourrissent pas. » Puis il a ajouté : « L'eau est trop froide. »
