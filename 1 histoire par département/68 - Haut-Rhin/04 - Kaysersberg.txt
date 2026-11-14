@@ -1,0 +1,16 @@
+TITRE : Kaysersberg
+NATURE : légende locale — ville viticole
+REPÉRES : Kaysersberg, Haut-Rhin.
+
+[HOOK D'ENTRÉE]
+Kaysersberg est une petite ville au fond d'une vallée vosgienne, avec un château en ruine, une église, un pont fortifié, des maisons à colombages, des vignes. Elle a donné un prix de la paix. Et il y a un pont où l'on n'entend pas ses pas.
+
+[CORPS]
+La ville se développe au Moyen Âge, autour de son château, sur la route des vins.
+
+Elle vit de la vigne, du commerce, du passage. Le pont fortifié contrôle l'entrée de la ville.
+
+Elle est restaurée, fleurie, parcourue. Le château, les ruelles, les caves, attirent les visiteurs.
+
+[HOOK DE FIN]
+Les habitants racontent que, sur le pont fortifié, il y a un passage où l'on n'entend pas ses propres pas. On marche, mais le bruit est étouffé, comme sur du sable. Un jour, un acousticien est venu avec un appareil. Il a mesuré : le son est absorbé, en effet, sur deux mètres. Il a cherché une explication : un matériau, un vide, une voûte. Rien. Il a demandé à un ancien. L'ancien a hoché la tête. « C'est là qu'on passait les condamnés. » Il a montré la rivière. « On les emmenait par là. » Il a haussé les épaules. « Le pont a gardé le silence. Alors il le rend. »

@@ -1,0 +1,16 @@
+TITRE : Le village d'Eguisheim
+NATURE : légende locale — village circulaire
+REPÉRES : Eguisheim, Haut-Rhin.
+
+[HOOK D'ENTRÉE]
+Eguisheim est un village de vignerons, bâti en cercles concentriques autour de son château, avec des ruelles, des maisons à colombages, des fontaines, des cigognes. Il est classé parmi les plus beaux de France. Et il y a une fontaine où l'eau ne sert à personne.
+
+[CORPS]
+Le village se développe au Moyen Âge, autour du château d'un pape, qui y est né.
+
+Les vignerons y cultivent, y vendangent, y pressent, dans des caves voûtées.
+
+Les remparts, les ruelles, les cours, sont restaurés. Le village attire des visiteurs du monde entier.
+
+[HOOK DE FIN]
+Les habitants racontent que, sur la place, il y a une fontaine à trois bassins, et que l'eau de l'un d'eux ne sert jamais : on n'y lave rien, on n'y boit pas, on n'y puise pas. Un jour, un visiteur a demandé pourquoi. Un vigneron a répondu : « Parce qu'elle est réservée. » Le visiteur a ri. Le vigneron a haussé les épaules. « C'est l'eau du retour. » Il a montré la rue. « Les vendangeurs, autrefois, partaient le matin. On laissait ce bassin plein. » Il a baissé la voix. « Pour ceux qui ne rentraient pas. On ne vidait jamais. » Il a souri. « Et personne ne le fait encore. »
