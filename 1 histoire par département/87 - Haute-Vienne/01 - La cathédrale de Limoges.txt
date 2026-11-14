@@ -1,6 +1,6 @@
 TITRE : La cathédrale de Limoges
 NATURE : fait réel — cathédrale gothique
-REPÉRES : Limoges, Haute-Vienne.
+REPÈRES : Limoges, Haute-Vienne.
 
 [HOOK D'ENTRÉE]
 La cathédrale de Limoges est une église gothique, avec une façade, un clocher, une nef, un jubé, des vitraux. Elle est inachevée. Et il y a une chapelle où l'on n'entre pas.

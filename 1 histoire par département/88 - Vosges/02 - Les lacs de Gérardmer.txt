@@ -1,6 +1,6 @@
 TITRE : Les lacs de Gérardmer
 NATURE : légende locale — lac et vallée
-REPÉRES : Gérardmer, Vosges.
+REPÈRES : Gérardmer, Vosges.
 
 [HOOK D'ENTRÉE]
 Gérardmer est une petite ville au bord d'un lac, entourée de forêts et de montagnes, avec des berges, des plages, des sentiers. Le lac est profond. Et il y a un endroit où l'eau ne se ride pas.

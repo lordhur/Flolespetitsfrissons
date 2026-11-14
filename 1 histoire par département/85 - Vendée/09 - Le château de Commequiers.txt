@@ -1,6 +1,6 @@
 TITRE : Le château de Commequiers
 NATURE : fait réel — ruine médiévale
-REPÉRES : Commequiers, Vendée.
+REPÈRES : Commequiers, Vendée.
 
 [HOOK D'ENTRÉE]
 Le château de Commequiers est une ruine de pierre, avec des tours, des murs, une cour, des fossés, au milieu des champs. Il a été démantelé. Et il y a un souterrain qui mène au bourg.

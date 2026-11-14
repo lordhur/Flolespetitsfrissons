@@ -1,6 +1,6 @@
 TITRE : La forêt de Moulière
 NATURE : légende locale — forêt domaniale
-REPÉRES : forêt de Moulière, Vienne.
+REPÈRES : forêt de Moulière, Vienne.
 
 [HOOK D'ENTRÉE]
 La forêt de Moulière est un massif de chênes et de pins, avec des landes, des étangs, des chemins, des bornes. Elle est parcourue depuis longtemps. Et il y a un carrefour où les chiens s'arrêtent.

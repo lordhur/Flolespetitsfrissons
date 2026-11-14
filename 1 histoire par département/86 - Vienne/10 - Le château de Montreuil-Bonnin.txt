@@ -1,6 +1,6 @@
 TITRE : Le château de Montreuil-Bonnin
 NATURE : légende locale — forteresse et village
-REPÉRES : Montreuil-Bonnin, Vienne.
+REPÈRES : Montreuil-Bonnin, Vienne.
 
 [HOOK D'ENTRÉE]
 Montreuil-Bonnin est un village sur une butte, avec une forteresse, des remparts, une église, des maisons de pierre. Il domine la plaine. Et il y a un puits où l'on n'entend pas de fond.

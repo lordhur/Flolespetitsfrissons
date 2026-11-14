@@ -1,6 +1,6 @@
 TITRE : Le château de Bruyères
 NATURE : légende locale — château et ville
-REPÉRES : Bruyères, Vosges.
+REPÈRES : Bruyères, Vosges.
 
 [HOOK D'ENTRÉE]
 Bruyères est une petite ville dans une vallée, avec une église, des maisons anciennes, des places, et, au-dessus, une butte. Il y avait un château. Il n'en reste que des murs. Et il y a une salle où l'on n'entre pas.

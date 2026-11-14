@@ -1,6 +1,6 @@
 TITRE : Vouvant
 NATURE : légende locale — village et tour
-REPÉRES : Vouvant, Vendée.
+REPÈRES : Vouvant, Vendée.
 
 [HOOK D'ENTRÉE]
 Vouvant est un village au bord d'une rivière, avec une tour, une église, des remparts, des maisons anciennes, une forêt autour. Il a été fondé par une fée. Et il y a une tour où l'on n'entre pas.

@@ -1,6 +1,6 @@
 TITRE : Le Ballon d'Alsace
 NATURE : fait réel — sommet et route
-REPÉRES : Saint-Maurice-sur-Moselle, Vosges.
+REPÈRES : Saint-Maurice-sur-Moselle, Vosges.
 
 [HOOK D'ENTRÉE]
 Le Ballon d'Alsace est une croupe d'herbe, avec une statue, une route, des crêtes, des sapins. Il a été une frontière. Et il y a un endroit où la neige ne tient pas.
@@ -12,5 +12,5 @@ Il devient une frontière, avec des postes, des bornes, des soldats.
 
 Aujourd'hui, on y monte en voiture, à vélo, à pied. Les crêtes offrent un panorama sur les Vosges et le Jura.
 
-[HOOK D'FIN]
+[HOOK DE FIN]
 Les habitants racontent les bergers, la frontière, les courses. Puis ils parlent d'un endroit, près de la statue, où la neige ne tient pas, même en janvier. Un géologue est venu. Il a sondé : de l'air chaud sortait du sol. Il a cherché une faille, une ancienne mine. Il a demandé à un ancien. L'ancien a hoché la tête. « C'est une porte. » Il a haussé les épaules. « Il y avait une maison, là. » Il a montré la pente. « Elle a brûlé. Le feu est resté dessous. » Le géologue a souri. L'ancien n'a pas souri. « On y a dormi, autrefois. On y dormait chaud. » Puis il a ajouté : « Et on ne s'y couche plus. »

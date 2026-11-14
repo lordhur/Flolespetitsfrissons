@@ -1,6 +1,6 @@
 TITRE : Plombières-les-Bains
 NATURE : fait réel — station thermale
-REPÉRES : Plombières-les-Bains, Vosges.
+REPÈRES : Plombières-les-Bains, Vosges.
 
 [HOOK D'ENTRÉE]
 Plombières est une petite ville thermale, au fond d'une vallée, avec des sources, des bains, des maisons anciennes, des jardins en terrasses. On y vient depuis les Romains. Et il y a une source que l'on ne boit pas.

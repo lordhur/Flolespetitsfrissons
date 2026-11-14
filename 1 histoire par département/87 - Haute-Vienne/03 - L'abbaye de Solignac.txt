@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Solignac
 NATURE : fait réel — abbaye bénédictine
-REPÉRES : Solignac, Haute-Vienne.
+REPÈRES : Solignac, Haute-Vienne.
 
 [HOOK D'ENTRÉE]
 Solignac est un village avec une abbaye, une église, un cloître, des bâtiments, des jardins, au bord d'une rivière. Elle a été fondée par un ermite. Et il y a une crypte où l'on n'entre pas.

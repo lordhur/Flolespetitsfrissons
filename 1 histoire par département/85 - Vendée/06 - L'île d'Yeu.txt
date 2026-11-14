@@ -1,6 +1,6 @@
 TITRE : L'île d'Yeu
 NATURE : fait réel — île et forteresse
-REPÉRES : L'Île-d'Yeu, Vendée.
+REPÈRES : L'Île-d'Yeu, Vendée.
 
 [HOOK D'ENTRÉE]
 L'île d'Yeu est une île de granit, avec des criques, des dunes, un port, un vieux château, un phare. On y accède par bateau. Et il y a une salle où le vent ne s'entend pas.

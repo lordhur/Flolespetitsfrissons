@@ -1,6 +1,6 @@
 TITRE : Fontaine-de-Vaucluse
 NATURE : fait réel — source et gouffre
-REPÉRES : Fontaine-de-Vaucluse, Vaucluse.
+REPÈRES : Fontaine-de-Vaucluse, Vaucluse.
 
 [HOOK D'ENTRÉE]
 À Fontaine-de-Vaucluse, une rivière sort d'une falaise, dans un gouffre d'eau verte, au pied d'un village. C'est une des plus grosses sources d'Europe. Et il y a un endroit où l'eau ne monte pas.

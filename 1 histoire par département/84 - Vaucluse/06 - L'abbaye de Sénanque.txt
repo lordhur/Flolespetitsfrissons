@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Sénanque
 NATURE : fait réel — abbaye cistercienne
-REPÉRES : Gordes, Vaucluse.
+REPÈRES : Gordes, Vaucluse.
 
 [HOOK D'ENTRÉE]
 Sénanque est une abbaye au fond d'un vallon, avec une église, un cloître, des champs de lavande, des cyprès. Elle a été fondée par des cisterciens. Et il y a une salle où l'on n'entre pas.

@@ -1,6 +1,6 @@
 TITRE : Roussillon
 NATURE : légende locale — village d'ocre
-REPÉRES : Roussillon, Vaucluse.
+REPÈRES : Roussillon, Vaucluse.
 
 [HOOK D'ENTRÉE]
 Roussillon est un village bâti sur une falaise d'ocre, avec des maisons rouges, des calades, un belvédère, un sentier des ocres. Il domine la vallée. Et il y a une maison où la façade ne change pas de couleur.

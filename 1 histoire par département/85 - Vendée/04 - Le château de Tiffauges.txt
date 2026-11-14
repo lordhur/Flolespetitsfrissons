@@ -1,6 +1,6 @@
 TITRE : Le château de Tiffauges
 NATURE : légende locale — forteresse médiévale
-REPÉRES : Tiffauges, Vendée.
+REPÈRES : Tiffauges, Vendée.
 
 [HOOK D'ENTRÉE]
 Tiffauges est une forteresse en ruine, avec un donjon, des murs, une cour, une rivière en dessous. Elle a appartenu à un seigneur tristement célèbre. Et il y a un souterrain où l'on n'entre pas.

@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Saint-Savin
 NATURE : fait réel — abbaye et peintures
-REPÉRES : Saint-Savin, Vienne.
+REPÈRES : Saint-Savin, Vienne.
 
 [HOOK D'ENTRÉE]
 Saint-Savin est une abbaye au bord de la Gartempe, avec une église, un clocher, des peintures, un pont, des jardins. Ses voûtes sont peintes. Et il y a une crypte où l'on n'entre pas.

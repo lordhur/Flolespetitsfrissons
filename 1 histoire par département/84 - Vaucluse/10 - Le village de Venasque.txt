@@ -1,6 +1,6 @@
 TITRE : Le village de Venasque
 NATURE : légende locale — village perché
-REPÉRES : Venasque, Vaucluse.
+REPÈRES : Venasque, Vaucluse.
 
 [HOOK D'ENTRÉE]
 Venasque est un village sur un éperon, avec un baptistère, une église, des remparts, des maisons de pierre, des cerisiers. Il a été un évêché. Et il y a une citerne où l'on n'entre pas.

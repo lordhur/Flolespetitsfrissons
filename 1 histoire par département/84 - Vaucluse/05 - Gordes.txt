@@ -1,6 +1,6 @@
 TITRE : Gordes
 NATURE : légende locale — village perché
-REPÉRES : Gordes, Vaucluse.
+REPÈRES : Gordes, Vaucluse.
 
 [HOOK D'ENTRÉE]
 Gordes est un village de pierre, accroché à une falaise, avec un château, des calades, des maisons en escalier, des moulins, une vallée en dessous. Il domine le Luberon. Et il y a une porte où l'on ne passe pas.

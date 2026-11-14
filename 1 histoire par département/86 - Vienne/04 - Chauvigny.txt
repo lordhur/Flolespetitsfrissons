@@ -1,6 +1,6 @@
 TITRE : Chauvigny
 NATURE : fait réel — cité et châteaux
-REPÉRES : Chauvigny, Vienne.
+REPÈRES : Chauvigny, Vienne.
 
 [HOOK D'ENTRÉE]
 Chauvigny est une ville haute, posée sur un éperon, au-dessus de la Vienne, avec cinq châteaux, une église, des ruelles, des remparts. Elle a été une place forte. Et il y a une tour où l'on n'entre pas.

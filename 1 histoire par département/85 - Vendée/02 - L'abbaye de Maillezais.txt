@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Maillezais
 NATURE : fait réel — ruines abbatiales
-REPÉRES : Maillezais, Vendée.
+REPÈRES : Maillezais, Vendée.
 
 [HOOK D'ENTRÉE]
 Maillezais est une abbaye en ruine, avec des murs, des tours, une nef sans toit, des arcs, au milieu des marais. Elle a été un évêché. Et il y a une salle où l'eau monte.

@@ -1,6 +1,6 @@
 TITRE : L'abbaye de Remiremont
 NATURE : fait réel — abbaye de chanoinesses
-REPÉRES : Remiremont, Vosges.
+REPÈRES : Remiremont, Vosges.
 
 [HOOK D'ENTRÉE]
 Remiremont est une petite ville au confluent de deux vallées, avec une abbaye, une église, un palais, des maisons anciennes. Elle a été gouvernée par des chanoinesses. Et il y a une salle où l'on n'entre pas.

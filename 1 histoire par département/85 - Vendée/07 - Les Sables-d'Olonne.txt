@@ -1,6 +1,6 @@
 TITRE : Les Sables-d'Olonne
 NATURE : légende locale — port et chenal
-REPÉRES : Les Sables-d'Olonne, Vendée.
+REPÈRES : Les Sables-d'Olonne, Vendée.
 
 [HOOK D'ENTRÉE]
 Les Sables-d'Olonne est une ville de pêcheurs, avec un chenal, des quais, un phare, des bateaux, une plage qui s'étend. Elle vit de la mer. Et il y a une balise où les bateaux ne passent pas.

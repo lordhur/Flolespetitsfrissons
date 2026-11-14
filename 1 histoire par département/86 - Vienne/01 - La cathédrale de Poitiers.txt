@@ -1,6 +1,6 @@
 TITRE : La cathédrale de Poitiers
 NATURE : fait réel — cathédrale gothique
-REPÉRES : Poitiers, Vienne.
+REPÈRES : Poitiers, Vienne.
 
 [HOOK D'ENTRÉE]
 La cathédrale de Poitiers est une église gothique, avec une façade, deux tours, une nef, des vitraux, un orgue. Elle a été bâtie par une reine. Et il y a une dalle où l'on ne marche pas.

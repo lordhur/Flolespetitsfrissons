@@ -1,6 +1,6 @@
 TITRE : Le lac de Vassivière
 NATURE : légende locale — lac artificiel
-REPÉRES : Beaumont-du-Lac, Haute-Vienne.
+REPÈRES : Beaumont-du-Lac, Haute-Vienne.
 
 [HOOK D'ENTRÉE]
 Le lac de Vassivière est un grand lac, avec des îles, des plages, des forêts, un centre d'art, un barrage. Il a noyé des villages. Et il y a un endroit où l'eau ne baisse pas.

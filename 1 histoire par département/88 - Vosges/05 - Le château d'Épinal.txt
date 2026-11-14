@@ -1,6 +1,6 @@
 TITRE : Le château d'Épinal
 NATURE : fait réel — ruines et ville
-REPÉRES : Épinal, Vosges.
+REPÈRES : Épinal, Vosges.
 
 [HOOK D'ENTRÉE]
 Le château d'Épinal est une ruine, posée sur une colline, au-dessus de la ville, avec des murs, une tour, un jardin, une vue sur la Moselle. Il a été démantelé. Et il y a un souterrain qui descend dans la ville.
