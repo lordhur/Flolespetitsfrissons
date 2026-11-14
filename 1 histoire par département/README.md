@@ -67,7 +67,7 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 
 ## 📊 Avancement
 
-**40 / 101 départements complets** — 400 récits écrits.
+**45 / 101 départements complets** — 450 récits écrits.
 
 | Département | Histoires | État |
 |---|---|---|
@@ -110,11 +110,11 @@ Ce que l'on évite : les faits divers sans mystère (meurtres, incendies, trafic
 | 36 - Indre | 10/10 | ✅ |
 | 37 - Indre-et-Loire | 10/10 | ✅ |
 | 38 - Isère | 10/10 | ✅ |
-| 39 - Jura | 0/10 | ⬜ |
-| 40 - Landes | 0/10 | ⬜ |
-| 41 - Loir-et-Cher | 0/10 | ⬜ |
-| 42 - Loire | 0/10 | ⬜ |
-| 43 - Haute-Loire | 0/10 | ⬜ |
+| 39 - Jura | 10/10 | ✅ |
+| 40 - Landes | 10/10 | ✅ |
+| 41 - Loir-et-Cher | 10/10 | ✅ |
+| 42 - Loire | 10/10 | ✅ |
+| 43 - Haute-Loire | 10/10 | ✅ |
 | 44 - Loire-Atlantique | 0/10 | ⬜ |
 | 45 - Loiret | 0/10 | ⬜ |
 | 46 - Lot | 0/10 | ⬜ |
