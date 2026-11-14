@@ -1,0 +1,16 @@
+TITRE : Le parc de Sceaux
+NATURE : fait réel — parc et château
+REPÉRES : Sceaux, Hauts-de-Seine.
+
+[HOOK D'ENTRÉE]
+Le parc de Sceaux est un domaine de pelouses, d'allées, de bassins, d'arbres, avec un château, une orangerie, un pavillon. Il a été dessiné par un jardinier célèbre. Et il y a une allée où le son ne porte pas.
+
+[CORPS]
+Le domaine est aménagé au dix-septième siècle, avec des jardins, des bassins, des perspectives.
+
+Le château est agrandi, habité, puis incendié et reconstruit, avant de devenir un musée.
+
+Le parc est racheté par le département, restauré, et parcouru par des promeneurs.
+
+[HOOK DE FIN]
+Les jardiniers racontent les jardins, les bassins, les arbres. Puis ils parlent d'une allée, près du pavillon, où l'on n'entend pas son interlocuteur à quelques mètres. Un acousticien est venu avec un appareil. Il a mesuré une zone d'ombre sonore, nette. Il a cherché une explication : le vent, les arbres, le relief. Rien. Il a demandé à un jardinier. Le jardinier a hoché la tête. « C'était l'allée des secrets. » Il a haussé les épaules. « On y parlait sans être entendu. » L'acousticien a souri. Le jardinier a ajouté : « Mais on y entendait les autres. » Il a baissé la voix. « Et parfois, on entendait des choses qu'on n'aurait pas dû. »
